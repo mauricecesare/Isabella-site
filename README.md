@@ -1,4 +1,4 @@
-# Die Repräsentationen von Isabella d'Este (Modisches Powerplay)
+# Die Repräsentationen von Isabella d'Este Modisches Powerplay
 
 test 123
 
