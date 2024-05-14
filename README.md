@@ -1,6 +1,5 @@
-# Die Repräsentationen von Isabella d'Este Modisches Powerplay
-
-test 123
+# Isabella d'Este:
+# Modisches Powerplay
 
 
 Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
