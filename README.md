@@ -1,32 +1,23 @@
-# Wer ist Isabella d'Este?
-
-
-
-Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
-
-
-Scroll along to find out  
-[why](#why), [what](#what), [how](#how) & [who](#who).  
-
+*"She, Macro said, had her hair spread over her head in such a way that it ran off her lovely and delicate shoulders; and it was gathered in a hairnet of auburn silk, which had been worked with such skilful craftsmanship that to me the knots seemed to be of the finest gold; and through the mesh of this hairnet, which was rather large, you could see her locks of hair shining almest like sunbeams that sparkled everywhere. In the middle of her forehead, where the hair is parted, she had a very beautiful and glowing ruby, from which a shiny and large pearl was dangling; and around her neck she had a string of very large and splendid pearls, which hung down from one side and the other of her ehest almost to her belt; she wore a beautiful and rich dress of black velvet, loaded with very well-placed gold buckles, and everything she had on her was so admirably decorated that it seemed as if the artisans had wanted to compete with nature itself."*
 
 ---
 
+Gesprächsdialog zwischen Pietro Bembo und Macro Vicenzio über Marcos Sichtung von Isabella D'Este in Ferrara. Dialog ist festgehalten im Ritratti" von Gian Giorgio Trissino, welches um 1524 veröffentlicht wurde.
 
-## Why 
+---
 
-In the realm of design education and research, there's a common emphasis on outcomes—be it presentations, prototypes, or papers. This focus, while essential, tends to sideline the  exploratory and dynamic process leading to these results. The journey to the final projects is marked by twists, turns, and tangents. This is where much of the learning and discovery occurs. 
+## Wer ist Isabella D'Este?
 
-
-*Syllabus Site* was conceived as a tool to highlight and document these critical but frequently overlooked aspects of design projects. It serves as a dynamic interface chronicling the voyage through readings, workshops, and discussions.
-
-
-This approach not only retains but celebrates the meandering nature of design as an intellectual journey, ensuring that the wealth of inspirations—from historical examples and theoretical frameworks to contemporary projects and research studies—is preserved and made accessible. 
-
+Zu ihren Lebzeiten war Isabella weithin als Verkörperung der Eleganz und als führende Vorreiterin der Modewelt bekannt. Da das Originalporträt von Tizian leider verloren gegangen ist, stellt Rubens' Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.
 
 ---
 
 
 ## What
+
+Scroll along to find out  
+[why](#why), [what](#what), [how](#how) & [who](#who). 
+
 
 A *Syllabus Site* is a one-page website arranging its elements along sections that can be scrolled vertically.
 
