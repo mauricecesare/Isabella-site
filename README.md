@@ -1,4 +1,4 @@
-# Syllabus Site
+# Die Repräsentationen von Isabella d'Este (Modisches Powerplay)
 
 This is an experiment in documenting design courses and a template for rendering Markdown files as one-page websites.
 
