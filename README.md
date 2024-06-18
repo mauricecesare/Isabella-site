@@ -62,6 +62,7 @@ _<h2 style="text-align: center;">„The nature of the copy“</h2>_
 ## 
 <p style="text-align: center;">Im Jahr 1600 begann Peter Paul Rubens seine Karriere als Hofmaler von Vincenzo Gonzaga (1562–1612), dem Urenkel Isabellas, in Mantua. Während dieser Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den venezianischen Meister entfachte. Die frühen Werke von Rubens zeichneten sich durch einen präzisen und glatten Farbauftrag aus, im Stil der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ späterer Arbeitsweise, die durch eine freiere und spontanere Pinselführung geprägt war.</p>
 
+
 ## <img src='img/90.jpeg' class='noresize'>
 
 [Selbstportrait, Girl with a fan,Tizian, 1555, Öl auf Leinwand, 102 × 86 cm, Staatliche Kunstsammlungen Dresden, Gal.-Nr. 170](https://commons.wikimedia.org/wiki/File:Titian_-_Girl_with_a_Fan_-_WGA22931.jpg)
