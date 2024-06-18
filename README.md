@@ -1,4 +1,4 @@
-# <h1 style="text-align: center;">Rubens und die Quelle und Ursprung der schönen Mode in Italien.  **Isabella D'Este in Rot**  Text von Sara Van Dijk</h1>
+# <h1 style="text-align: center;">Rubens und die Quelle und Ursprung der schönen Mode in Italien.  **Isabella D'Este in Rot**  Text von Sara Van Dijk"</h1>
 
 
 ---
