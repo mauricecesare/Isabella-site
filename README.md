@@ -20,7 +20,8 @@ _"„She, Macro said, had her hair spread over her head in such a way that it ra
 
 ## <img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg' class='noresize'>
 
-[Organigrams for/from the future(https://infovis.fh-potsdam.de/organigrams/]
+[Portrait von Gian Giorgio Trissino, Vincenzo di Biagio Catena, Öl auf Lein-wand, 1510,
+72,14 × 63,50 cm (https://de.m.wikipedia.org/wiki/Datei:Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg)]
 
 
 ---
