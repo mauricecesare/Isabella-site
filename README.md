@@ -5,7 +5,7 @@ _<h2 style="text-align: center;">Text von Sara Van Dijk</h2>_
 ## <img src='img/Isabella.jpg' class='noresize'>
 
 [Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
-101,8 × 81 cm, Kunsthistorisches Museum Wien, Inv.-Nr: GG_1534](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg)
+101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg)
 
 
 ---
@@ -59,8 +59,22 @@ Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die In
 _<h2 style="text-align: center;">„The nature of the copy“</h2>_
 
 
+## 
+<p style="text-align: center;">Im Jahr 1600 begann Peter Paul Rubens seine Karriere als Hofmaler von Vincenzo Gonzaga (1562–1612), dem Urenkel Isabellas, in Mantua. Während dieser Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den venezianischen Meister entfachte. Die frühen Werke von Rubens zeichneten sich durch einen präzisen und glatten Farbauftrag aus, im Stil der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ späterer Arbeitsweise, die durch eine freiere und spontanere Pinselführung geprägt war.</p>
+
+## <img src='img/90.jpeg' class='noresize'>
+
+[Selbstportrait, Girl with a fan,Tizian, 1555, Öl auf Leinwand, 102 × 86 cm, Staatliche Kunstsammlungen Dresden, Gal.-Nr. 170](https://commons.wikimedia.org/wiki/File:Titian_-_Girl_with_a_Fan_-_WGA22931.jpg)
 
 
+## <img src='img/Girl Fan Circles.jpg' class='noresize'>
+
+[Girl with a fan, Peter Paul Rubens nach Tizian, 1628‒30, Öl auf Leinwand, 96 × 73 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr.: GG_531](https://www.khm.at/en/objectdb/detail/1610/)
+
+
+## ...doch alles fake?!
+
+es gibt eine zweite, sehr ähnliche Version von Tizians "Girl with a fan", mit den gleichen Attributen, weißes Satin Kleid, goldene Verzierungen und ein grünes Blatt im Ausschnitt. Diese stellt das wahre Abbild für Rubens Kopie dar und unterstreicht erneut, die Präzision Rubens, für den die Genauigkeit der Kopie besonders bei Tizian's Vorbild wichtig war.
 
 
 
