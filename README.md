@@ -4,8 +4,8 @@ _<h2 style="text-align: center;">Text von Sara Van Dijk</h2>_
 
 ## <img src='img/Isabella.jpg' class='noresize'>
 
-[Portrait von Gian Giorgio Trissino, Vincenzo di Biagio Catena, 1510, Öl auf Leinwand,
-72,14 × 63,50 cm, Gemäldeabteilung des Louvre, Inv.-Nr: RF_2098](https://de.m.wikipedia.org/wiki/Datei:Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg)
+[Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
+101,8 × 81 cm, Kunsthistorisches Museum Wien, Inv.-Nr: GG_1534](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg)
 
 
 ---
@@ -34,12 +34,12 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 # <h1 style="text-align: center;">Isabella D'Este</h1>
 
-<p style="text-align: center;">... lebte von 1474-1539 und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als Verkörperung der Eleganz und als führende Vorreiterin der Modewelt bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.</p>
+<p style="text-align: center;">... lebte von 1474‒1539 und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als Verkörperung der Eleganz und als führende Vorreiterin der Modewelt bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.</p>
 
 
 ## Peter Paul Rubens
 
-... Interesse wurde geweckt und malte Isabella D'Este das erste Mal im **Jahr 1600-01** durch eine verschollene Abbildung von Tizian. Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizians Technik war, sondern weil er ein **großes Interesse** für den **historischen Kleidungsstil** hatte.
+... Interesse wurde geweckt und malte Isabella D'Este das erste Mal im **Jahr 1600‒01** durch eine verschollene Abbildung von Tizian. Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizians Technik war, sondern weil er ein **großes Interesse** für den **historischen Kleidungsstil** hatte.
 
 
 ## Können wir Rubens Kopien trauen? 
