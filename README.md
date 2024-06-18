@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Rubens und die Quelle und Ursprung der schönen Mode in Italien. Isabella D'Este in Rot.</h1>
+# <h1 style="text-align: center;">Rubens und die Quelle und Ursprung der schönen Mode in Italien. Isabella D'Este in Rot.</h1>
 _<h2 style="text-align: center;">Text von Sara Van Dijk</h2>_
 
 
@@ -26,7 +26,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 ---
 
 
-<h1 style="text-align: center;">Isabella D'Este</h1>
+# <h1 style="text-align: center;">Isabella D'Este</h1>
 
 <p style="text-align: center;">... lebte von 1474-1539 und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als Verkörperung der Eleganz und als führende Vorreiterin der Modewelt bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.</p>
 
@@ -49,7 +49,7 @@ Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die In
 ---
 
 
-<h1 style="text-align: center;">Die Art der Reproduktion </h1>
+# <h1 style="text-align: center;">Die Art der Reproduktion </h1>
 _<h2 style="text-align: center;">„The nature of the copy“</h2>_
 
 
