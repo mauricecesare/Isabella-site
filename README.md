@@ -2,7 +2,7 @@
 _<h2 style="text-align: center;">Text von Sara Van Dijk</h2>_
 
 
-## <img src='img/Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d'Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg'>
+## <img src='img/Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d'Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg' class='noresize'>
 
 
 [Portrait von Gian Giorgio Trissino, Vincenzo di Biagio Catena, 1510, Öl auf Leinwand,
