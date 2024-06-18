@@ -2,6 +2,7 @@
 **Isabella D'Este in Rot**
 Text von Sara Van Dijk
 
+
 *"„She, Macro said, had her hair spread over her head in such a way that it ran off her lovely and **delicate shoulders**; and it was gathered in a **hairnet of auburn silk**, which had been worked with such skillful craftsmanship that to me the knots seemed to be of the **finest gold**; and through the mesh of this hairnet, which was rather large, you could see her locks of **hair shining almost like sunbeams** that sparkled everywhere. In the middle of her forehead, where the hair is parted, she had a very beautiful and **glowing ruby**, from which a shiny and **large pearl** was dangling; and around her neck she had a string of very large and splendid pearls, which hung down from one side and the other of her chest almost to her belt; she wore a **beautiful and rich dress** of black velvet, loaded with very well-placed gold buckles, and everything she had on her was so **admirably decorated** that it seemed as if the artisans had **wanted to compete with nature itself**.“*
 
 
@@ -10,7 +11,11 @@ Text von Sara Van Dijk
 
 **"Ritratti"**: schriftliche Portraitaufnahme, wahrscheinlich fiktiv, um auf etwas hinzuweisen. Der Ursprung dieser Herangehensweise findet sich in der Antike mit einem ähnlichem Modell **"Eikones"**.
 
+<img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg' class='noresize'>
+
+
 ---
+
 
 ## Isabella D'Este
 
