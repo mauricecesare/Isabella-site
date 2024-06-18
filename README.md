@@ -28,7 +28,8 @@ _„She, Macro said, had her hair spread over her head in such a way that it ran
 
 # Isabella D'Este
 
-... lebte von 1474-1539 und war Markgräfin von Mantua,  einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als **Verkörperung der Eleganz** und als führende **Vorreiterin der Modewelt** bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt **Rubens Kopie** eine wichtige visuelle Quelle für Isabellas Kleidung dar.
+... lebte von 1474-1539 und war Markgräfin von Mantua,
+einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als **Verkörperung der Eleganz** und als führende **Vorreiterin der Modewelt** bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt **Rubens Kopie** eine wichtige visuelle Quelle für Isabellas Kleidung dar.
 
 
 ## Peter Paul Rubens
