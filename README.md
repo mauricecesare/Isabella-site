@@ -60,7 +60,7 @@ _<h2 style="text-align: center;">„The nature of the copy“</h2>_
 
 
 ## 
-<p style="text-align: center;">Im Jahr 1600 begann Peter Paul Rubens seine Karriere als Hofmaler von Vincenzo Gonzaga (1562–1612), dem Urenkel Isabellas, in Mantua. Während dieser Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den venezianischen Meister entfachte. Die frühen Werke von Rubens zeichneten sich durch einen präzisen und glatten Farbauftrag aus, im Stil der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ späterer Arbeitsweise, die durch eine freiere und spontanere Pinselführung geprägt war.</p>
+Im Jahr 1600 begann Peter Paul Rubens seine Karriere als Hofmaler von Vincenzo Gonzaga (1562–1612), dem Urenkel Isabellas, in Mantua. Während dieser Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den venezianischen Meister entfachte. Die frühen Werke von Rubens zeichneten sich durch einen präzisen und glatten Farbauftrag aus, im Stil der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ späterer Arbeitsweise, die durch eine freiere und spontanere Pinselführung geprägt war.
 
 
 ## <img src='img/90.jpeg' class='noresize'>
@@ -76,6 +76,27 @@ _<h2 style="text-align: center;">„The nature of the copy“</h2>_
 ## ...doch alles fake?!
 
 es gibt eine zweite, sehr ähnliche Version von Tizians "Girl with a fan", mit den gleichen Attributen, weißes Satin Kleid, goldene Verzierungen und ein grünes Blatt im Ausschnitt. Diese stellt das wahre Abbild für Rubens Kopie dar und unterstreicht erneut, die Präzision Rubens, für den die Genauigkeit der Kopie besonders bei Tizian's Vorbild wichtig war.
+
+
+---
+
+
+# <h1 style="text-align: center;">Außerdem...</h1>
+
+<p style="text-align: center;">Rubens Kopie von Tizians "Isabella D'Este in Schwarz" ist verschollen, jedoch existiert ein Kupferstich von Lucas Vorstermann, der sich wiederum eine Kopie Rubens anfertigte. Der Kupferstich ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die Glaubwürdigkeit in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.</p>
+
+
+## 
+_<p style="text-align: center;">"However, it should be noted that the panel has never been technically examined. We should be wary of accepting the early twentieth-century connoisseurship too readily, and we cannot exclude the possibility that this copy was produced after Rubens rather than directly after Tizian."</p>_
+
+## Rubens Abbildungen approved!
+
+
+
+
+
+
+
 
 
 
