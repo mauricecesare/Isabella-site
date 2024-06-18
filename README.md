@@ -49,10 +49,9 @@ Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die In
 ---
 
 
-# Die Art der Reproduktion 
+#<h1 style="text-align: center;">Die Art der Reproduktion </h1>
+_<h2 style="text-align: center;">„The nature of the copy“</h2>_
 
-
-_„The nature of the copy“_
 
 
 
