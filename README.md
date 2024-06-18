@@ -2,7 +2,7 @@
 _<h2 style="text-align: center;">Text von Sara Van Dijk</h2>_
 
 
-## 
+## <img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg' class='noresize'>
 
 [Portrait von Gian Giorgio Trissino, Vincenzo di Biagio Catena, 1510, Öl auf Leinwand,
 72,14 × 63,50 cm, Gemäldeabteilung des Louvre, Inv.-Nr: RF_2098](https://de.m.wikipedia.org/wiki/Datei:Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg)
