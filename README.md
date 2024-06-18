@@ -1,4 +1,4 @@
-# <h1 style="text-align: center;">Rubens und die Quelle und Ursprung der schönen Mode in Italien. Isabella D'Este in Rot</h1>
+# <h1 style="text-align: center;">Rubens und die Quelle und Ursprung der schönen Mode in Italien. Isabella D'Este in Rot.</h1>
 _<h1 style="text-align: center;">Text von Sara Van Dijk</h1>_
 
 
@@ -28,20 +28,17 @@ _„She, Macro said, had her hair spread over her head in such a way that it ran
 
 # Isabella D'Este
 
-... lebte von 1474 - 1539 und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als Verkörperung der Eleganz und als führende Vorreiterin der Modewelt bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt Rubens' Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.
+... lebte von 1474-1539 und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als **Verkörperung der Eleganz** und als führende **Vorreiterin der Modewelt** bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt **Rubens Kopie** eine wichtige visuelle Quelle für Isabellas Kleidung dar.
 
 
 ## Peter Paul Rubens
 
-... Interesse wurde geweckt und malte Isabella D'Este das erste Mal im Jahr 1600-01 durch eine verschollene Abbildung von Tizian. Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizian's Technik war, sondern weil er ein großes Interesse für den historischen Kleidungsstil hatte.
-
-
-### Rubens Abbildungen fake?
+... Interesse wurde geweckt und malte Isabella D'Este das erste Mal im **Jahr 1600-01** durch eine verschollene Abbildung von Tizian. Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizians Technik war, sondern weil er ein **großes Interesse** für den **historischen Kleidungsstil** hatte.
 
 
 ### Können wir Rubens Kopien trauen? 
 
-Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die Interpretation und Einordnung sprechen können, wie sich Isabella darstellen ließ, sollte die Frage geklärt werden, ob nicht Rubens Änderungen an Isabella's Äußerem vorgenommen hat.
+Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die Interpretation und Einordnung sprechen können, wie sich Isabella darstellen ließ, sollte die Frage geklärt werden, ob nicht Rubens Änderungen an Isabellas Äußerem vorgenommen hat.
 
 
 ### <img src='img/1200px-Self-portrait_by_Peter_Paul_Rubens.jpg' class='noresize'>
