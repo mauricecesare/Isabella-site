@@ -1,6 +1,4 @@
-# Rubens und die Quelle und **Ursprung der schönen Mode** in Italien.
-**Isabella D'Este in Rot**
-Text von Sara Van Dijk
+# <h1 style="text-align: center;">Rubens und die Quelle und Ursprung der schönen Mode in Italien.  **Isabella D'Este in Rot**  Text von Sara Van Dijk</h1>
 
 
 ---
@@ -21,7 +19,7 @@ _"„She, Macro said, had her hair spread over her head in such a way that it ra
 ## <img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg' class='noresize'>
 
 [Portrait von Gian Giorgio Trissino, Vincenzo di Biagio Catena, Öl auf Lein-wand, 1510,
-72,14 × 63,50 cm (https://de.m.wikipedia.org/wiki/Datei:Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg)]
+72,14 × 63,50 cm (https://de.m.wikipedia.org/wiki/Datei:Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg)
 
 
 ---
