@@ -2,8 +2,7 @@
 _<h2 style="text-align: center;">Text von Sara Van Dijk</h2>_
 
 
-## <img src='img/Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d'Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg' class='noresize'>
-
+## 
 
 [Portrait von Gian Giorgio Trissino, Vincenzo di Biagio Catena, 1510, Öl auf Leinwand,
 72,14 × 63,50 cm, Gemäldeabteilung des Louvre, Inv.-Nr: RF_2098](https://de.m.wikipedia.org/wiki/Datei:Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg)
@@ -43,12 +42,12 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 ... Interesse wurde geweckt und malte Isabella D'Este das erste Mal im **Jahr 1600-01** durch eine verschollene Abbildung von Tizian. Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizians Technik war, sondern weil er ein **großes Interesse** für den **historischen Kleidungsstil** hatte.
 
 
-### Können wir Rubens Kopien trauen? 
+## Können wir Rubens Kopien trauen? 
 
 Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die Interpretation und Einordnung sprechen können, wie sich Isabella darstellen ließ, sollte die Frage geklärt werden, ob nicht Rubens Änderungen an Isabellas Äußerem vorgenommen hat.
 
 
-### <img src='img/1200px-Self-portrait_by_Peter_Paul_Rubens.jpg' class='noresize'>
+## <img src='img/1200px-Self-portrait_by_Peter_Paul_Rubens.jpg' class='noresize'>
 
 [Selbstportrait, Peter Paul Rubens, 1623, Öl auf Holztafel, 91,3 × 70,8 cm, Royal Collection Großbritanien, Inv.-Nr.: RCIN_400156](https://de.wikipedia.org/wiki/Datei:Rubens_self_portrait.jpg)
 
