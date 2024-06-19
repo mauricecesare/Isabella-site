@@ -124,12 +124,13 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 
 ---
 #
-_<p style="text-align: center;">Isabella verstand Mode genau auf diese Weise, und ihr Einfluss erstreckte sich über die Grenzen Italiens hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze im Bereich Mode stand sie in regem Briefkontakt mit zahlreichen Personen, die sie um Ratschläge baten und mit ihr Tauschgeschäfte tätigten.</p>
+<p style="text-align: center;">Isabella verstand Mode genau auf diese Weise, und ihr Einfluss erstreckte sich über die Grenzen Italiens hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze im Bereich Mode stand sie in regem Briefkontakt mit zahlreichen Personen, die sie um Ratschläge baten und mit ihr Tauschgeschäfte tätigten.</p>
 
 
 ## Frankreich:
 
 **Frz. König, Francis I** fragt Isabella nach Modepuppen, die die gleiche Kleidung wie sie tragen. Diese Puppen möchte er den Frauen in Frankreich zeigen, um sie damit zu inspirieren ähnliche Kleidung zu tragen.
+
 
 ## Polen:
 
