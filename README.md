@@ -111,9 +111,11 @@ _<h2 style="text-align: center;">„Isabella and fashion“</h2>_
 
 <p style="text-align: center;">Mode war für Isabella von größter Bedeutung. Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft modebewusste Hofdame musste ebenso verstehen, welcher gesellschaftlichen Schicht sie angehörte und zu welchem Anlass sie sich kleidete. Diese beiden Aspekte beeinflussen entscheidend, wie die Kleidung von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht.</p>
 
+
 ## "Libro del cortegiano":
 
 Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508 und 1516 und etwa zehn Jahre später gedruckt. In diesem Buch beschreibt Castiglione das "_Ideal der "Court Lady_" und stellt eine Art **Benimmregeln für die Bekleidung** auf, die als Verhaltenskodex verstanden werden können. Er betont die Bedeutung der richtigen Kleidung zur richtigen Zeit und am richtigen Ort, um persönliche und äußere Stärken zu betonen. Darüber hinaus soll die ideale Hofdame das nötige **Selbstvertrauen** besitzen und durch ihr Wissen um die angemessene Kleidung diese mit **ausgewählten Bewegungen und Worten** ergänzen.
+
 
 ## <img src='img/Baldessare_Castiglione_-_Il_Cortigiano_(1549).jpeg' class='noresize'>
 
