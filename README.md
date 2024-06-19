@@ -83,7 +83,7 @@ es gibt eine zweite, sehr ähnliche Version von Tizians "Girl with a fan", mit d
 
 # <h1 style="text-align: center;">Außerdem...</h1>
 
-<p style="text-align: center;">Rubens Kopie von Tizians "Isabella D'Este in Schwarz" ist verschollen, jedoch existiert ein Kupferstich von Lucas Vorstermann, der sich wiederum eine Kopie Rubens anfertigte. Der Kupferstich ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die Glaubwürdigkeit in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.</p>
+<p style="text-align: center;">...Rubens Kopie von Tizians "Isabella D'Este in Schwarz" ist verschollen, jedoch existiert ein Kupferstich von Lucas Vorstermann, der sich wiederum eine Kopie Rubens anfertigte. Der Kupferstich ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die Glaubwürdigkeit in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.</p>
 
 
 ## 
@@ -93,13 +93,21 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 ## Rubens Abbildungen approved!
 
 
+## <img src='img/DPI13258655__70037.jpg' class='noresize'>
+
+[Portrait Isabella D'Este in Schwarz, Lucas Vorsterman I nach Peter Paul Rubens, 1620‒30, Kupferstich, 42 × 32,2 cm, The Elisha Whittelsey Collection, Inv.-Nr.: 51.501.7599](https://www.metmuseum.org/art/collection/search/387846)
 
 
+## <img src='img/Tizian_056.jpg' class='noresize'>
+
+[Portrait Isabella D'Este in Schwarz, Tizian, 1534‒36, Öl auf Leinwand, 102,4 × 64,7 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr.: GG_83](https://commons.wikimedia.org/wiki/File:Tizian_056.jpg)
 
 
+---
 
 
-
+# <h1 style="text-align: center;">Modeikone Isabella D'Este </h1>
+_<h2 style="text-align: center;">„„Isabella and fashion““</h2>_
 
 
 ---
