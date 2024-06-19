@@ -142,6 +142,25 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 
 
 ---
+#
+<p style="text-align: center;">Isabella verfügte über ein Netzwerk von Agenten, die im gesamten Land nach den feinsten Stoffen und Materialien suchten, stets bereit, Neuheiten zu erwerben und Isabella zu präsentieren. Kosten spielten dabei keine Rolle, und obwohl Isabella finanzielle Schwierigkeiten hatte, zeigt der umfangreiche Briefverkehr mit den sogenannten "Zigliolo" (bevollmächtigte Handelsvertreter), dass sie keinerlei Einsparungen machte, wenn es um die Beschaffung neuer Stoffe und Materialien ging.</p>
+
+
+## Spionage:
+Um stets auf dem neuesten Stand zu bleiben, ließ Isabella auch andere Frauen, wie beispielsweise **Lucrezia Borgia**, ausspionieren. Anlässlich Lucrezias Hochzeit mit Isabellas Bruder, Alfonso D'Este, bat sie  den Priester in Briefen, **Lucrezia wie ein Schatten zu folgen und ihr über deren Gewohnheiten und Kleidung Bericht zu erstatten**.
+
+## 
+Ein **Zitat von Isabellas Ehemann**, Francesco Gonzaga, aus einem Brief, in dem er klarstellt, dass er über die Begierde Isabellas Bescheid weiß, er jedoch kein geeigneter Botschafter sei:
+
+_"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had, we do not write anything else other than that they were all bedecked with very precious jewels, because it is beyond our profession."_
+
+
+## <img src='img/Lucrezia Münze.png' class='noresize'>
+
+[Vorderseite einer "Schaumünze der Lucrezia Borgia, Filippino Lippi, 1806, Kupferstichabbildung, Berliner Münzcabinett](https://de.wikipedia.org/wiki/Datei:LucBorgia.png)
+
+
+---
 ## What
 
 Scroll along to find out  
