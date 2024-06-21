@@ -182,7 +182,7 @@ Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell z
 
 ---
 # <h1 style="text-align: center;">V. Im Detail: Isabella in Rot</h1>
-_<h2 style="text-align: center;">„Isabella in Red“</h2>_
+_<h2 style="text-align: center;">„Closer look: Isabella in Red“</h2>_
 
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
 
@@ -219,9 +219,7 @@ _<h2 style="text-align: center;">„Isabella in Red“</h2>_
 # <h1 style="text-align: center;">VI. Wandel im Konzept weiblicher Schönheit</h1>
 _<h2 style="text-align: center;">„Shift in the Concept of Female Beauty“</h2>_
 
-<p style="text-align: center;">Trissinos "Ritratti" basiert auf dem antiken Modell des griechisch-römischen Schriftstellers und Rhetorikers Lucian von Samosta. Der sogenannte "Eikones" beschreibt auf ähnliche Weise die äußeren Attribute, doch es gibt wesentliche Unterschiede zwischen den Werken von Trissino und Lucian. Diese Unterschiede verdeutlichen einen gravierenden Wandel in der Auffassung von weiblicher Schönheit.</p>
-
-<p style="text-align: center;">Während Trissino materielle Aspekte in großer Ausführlichkeit beschreibt, legt Lucian vor allem Wert auf die Tugenden, die Schönheit ausmachen. Nach Lucians Verständnis gehören Selbstbeherrschung, Güte und Freundlichkeit zur Definition von Schönheit.</p>
+<p style="text-align: center;">Trissinos "Ritratti" basiert auf dem antiken Modell des griechisch-römischen Schriftstellers und Rhetorikers Lucian von Samosta. Der sogenannte "Eikones" beschreibt auf ähnliche Weise die äußeren Attribute, doch es gibt wesentliche Unterschiede zwischen den Werken von Trissino und Lucian. Diese Unterschiede verdeutlichen einen gravierenden Wandel in der Auffassung von weiblicher Schönheit. Während Trissino materielle Aspekte in großer Ausführlichkeit beschreibt, legt Lucian vor allem Wert auf die Tugenden, die Schönheit ausmachen. Nach Lucians Verständnis gehören Selbstbeherrschung, Güte und Freundlichkeit zur Definition von Schönheit.</p>
 
 <p style="text-align: center;">Trissinos Perspektive hingegen konzentriert sich stärker auf Kleidung und Accessoires, die im 16. Jahrhundert von großer Bedeutung waren. In seiner Sichtweise repräsentieren diese eher materialistischen Attribute die inneren Werte, die Lucian in seinem Modell an erster Stelle nennt.</p>
 
