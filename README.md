@@ -33,12 +33,12 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 # <h1 style="text-align: center;">I. Isabella D'Este und die Faszination Rubens</h1>
 
-<p style="text-align: center;">... lebte von 1474‒1539 und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als Verkörperung der Eleganz und als führende Vorreiterin der Modewelt bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.</p>
+<p style="text-align: center;">Isabella lebte von 1474‒1539 und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als Verkörperung der Eleganz und als führende Vorreiterin der Modewelt bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.</p>
 
 
 ## Peter Paul Rubens
 
-... Interesse wurde geweckt und malte Isabella D'Este das erste Mal im **Jahr 1600‒01** durch eine verschollene Abbildung von Tizian. Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizians Technik war, sondern weil er ein **großes Interesse** für den **historischen Kleidungsstil** hatte.
+Sein Interesse wurde geweckt und so malte er Isabella D'Este das erste Mal im **Jahr 1600‒01** durch eine verschollene Abbildung von Tizian. Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizians Technik war, sondern weil er ein **großes Interesse** für den **historischen Kleidungsstil** hatte.
 
 
 ## Können wir Rubens Kopien trauen? 
