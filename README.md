@@ -31,7 +31,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 ---
 
 
-# <h1 style="text-align: center;">I. Isabella D'Este</h1>
+# <h1 style="text-align: center;">I. Isabella D'Este und die Faszination Rubens</h1>
 
 <p style="text-align: center;">... lebte von 1474‒1539 und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als Verkörperung der Eleganz und als führende Vorreiterin der Modewelt bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.</p>
 
@@ -103,8 +103,7 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 ---
 
 
-# <h1 style="text-align: center;">III. Modeikone Isabella D'Este </h1>
-_<h2 style="text-align: center;">„Isabella and fashion“</h2>_
+# <h1 style="text-align: center;">III. Vorreiterin der Mode Isabella D'Este </h1>
 
 <p style="text-align: center;">Mode war für Isabella von größter Bedeutung. Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft modebewusste Hofdame musste ebenso verstehen, welcher gesellschaftlichen Schicht sie angehörte und zu welchem Anlass sie sich kleidete. Diese beiden Aspekte beeinflussen entscheidend, wie die Kleidung von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. Isabella verstand Mode genau auf diese Weise, und ihr Einfluss erstreckte sich über die Grenzen Italiens hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze im Bereich Mode stand sie in regem Briefkontakt mit zahlreichen Personen, die sie um Ratschläge baten und mit ihr Tauschgeschäfte tätigten.</p>
 
@@ -151,7 +150,6 @@ _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had,
 
 ---
 # <h1 style="text-align: center;">IV. Abbildung von Schönheit und Kleidung</h1>
-_<h2 style="text-align: center;">„Beauty, dress and likeness in portraiture“</h2>_
 
 <p style="text-align: center;">Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen Konflikt: dem Naturalismus und dem Idealismus. Während es als Schönheitsideal galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.</p>
 
@@ -181,7 +179,6 @@ Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell z
 
 ---
 # <h1 style="text-align: center;">V. Im Detail: Isabella in Rot</h1>
-_<h2 style="text-align: center;">„Closer look: Isabella in Red“</h2>_
 
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
 
@@ -216,7 +213,6 @@ _<h2 style="text-align: center;">„Closer look: Isabella in Red“</h2>_
 
 ---
 # <h1 style="text-align: center;">VI. Wandel im Konzept weiblicher Schönheit</h1>
-_<h2 style="text-align: center;">„Shift in the Concept of Female Beauty“</h2>_
 
 <p style="text-align: center;">Trissinos "Ritratti" basiert auf dem antiken Modell des griechisch-römischen Schriftstellers und Rhetorikers Lucian von Samosta. Der sogenannte "Eikones" beschreibt auf ähnliche Weise die äußeren Attribute, doch es gibt wesentliche Unterschiede zwischen den Werken von Trissino und Lucian. Diese Unterschiede verdeutlichen einen gravierenden Wandel in der Auffassung von weiblicher Schönheit. Während Trissino materielle Aspekte in großer Ausführlichkeit beschreibt, legt Lucian vor allem Wert auf die Tugenden, die Schönheit ausmachen. Nach Lucians Verständnis gehören Selbstbeherrschung, Güte und Freundlichkeit zur Definition von Schönheit.</p>
 
