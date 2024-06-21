@@ -191,6 +191,31 @@ _<h2 style="text-align: center;">„Isabella in Red“</h2>_
 101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg)
 
 
+## 
+**1. Kleid:**
+* dunkelrotes Kleid "camora"
+* Korsett mit tiefen Ausschnitt
+* weißes Hemd "camica" mit goldenen Streifen und Perlen
+* gebauschte Ärmel am Oberarm
+* enger Ärmel am Unterarm mit goldenen Streifen
+
+
+## 
+**2. Accessoires:**
+* Marderpelz "Zibellino": Isabella als Vorreiterin. Auch genannt "Flohpelz" mit ausgearbeitetem Kopf, Schwanz und Pfoten
+* goldener Ring am Zeigefinger
+* gedrehter Hüftgürtel mit Rosenkranz aus schwarzem Bernstein und Gold
+* Perlenkette
+
+
+##
+**3. Kopfschmuck:**
+* Kopfschmuck (eigene Erfindung): voluminöses Haarnetz mit falschem Haar und Seide "capigliara or zazara"
+*  Goldfäden/ -draht
+*  Brosche in der Mitte: vier dunkle Edelsteine, vier perlen und Rubin in der Mitte
+*  hängende, birnenförmige Perle 
+
+
 ---
 ## What
 
