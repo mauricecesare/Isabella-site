@@ -82,7 +82,7 @@ es gibt eine zweite, sehr ähnliche Version von Tizians "Girl with a fan", mit d
 
 # <h1 style="text-align: center;">Außerdem...</h1>
 
-<p style="text-align: center;">...Rubens Kopie von Tizians "Isabella D'Este in Schwarz" ist verschollen, jedoch existiert ein Kupferstich von Lucas Vorstermann, der sich wiederum eine Kopie Rubens anfertigte. Der Kupferstich ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die Glaubwürdigkeit in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.</p>
+<p style="text-align: center;">Rubens Kopie von Tizians "Isabella D'Este in Schwarz" ist verschollen, jedoch existiert ein Kupferstich von Lucas Vorstermann, der sich wiederum eine Kopie Rubens anfertigte. Der Kupferstich ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die Glaubwürdigkeit in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.</p>
 
 
 ## 
@@ -155,9 +155,9 @@ _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had,
 # <h1 style="text-align: center;">Abbildung von Schönheit und Kleidung</h1>
 _<h2 style="text-align: center;">„Beauty, dress and likeness in portraiture“</h2>_
 
-<p style="text-align: center;">Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen Konflikt: dem Naturalismus und dem Idealismus. Während es als Schönheitsideal galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.
+<p style="text-align: center;">Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen Konflikt: dem Naturalismus und dem Idealismus. Während es als Schönheitsideal galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.</p>
 
-Isabella war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer Körperproportionen unzufrieden. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen schriftliche Beschreibungen ihrer Erscheinung. Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie die entsprechenden Kleidungsstücke gar nicht besaß.</p>
+<p style="text-align: center;">Isabella war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer Körperproportionen unzufrieden. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen schriftliche Beschreibungen ihrer Erscheinung. Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie die entsprechenden Kleidungsstücke gar nicht besaß.</p>
 
 
 ## War Isabella überhaupt so schön, wie alle behaupten?
