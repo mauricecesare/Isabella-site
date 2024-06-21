@@ -31,7 +31,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 ---
 
 
-# <h1 style="text-align: center;">Isabella D'Este</h1>
+# <h1 style="text-align: center;">I. Isabella D'Este</h1>
 
 <p style="text-align: center;">... lebte von 1474‒1539 und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als Verkörperung der Eleganz und als führende Vorreiterin der Modewelt bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.</p>
 
@@ -54,7 +54,7 @@ Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die In
 ---
 
 
-# <h1 style="text-align: center;">Die Art der Reproduktion </h1>
+# <h1 style="text-align: center;">II. Die Art der Reproduktion </h1>
 _<h2 style="text-align: center;">„The nature of the copy“</h2>_
 
 
@@ -80,9 +80,8 @@ es gibt eine zweite, sehr ähnliche Version von Tizians "Girl with a fan", mit d
 ---
 
 
-# <h1 style="text-align: center;">Außerdem</h1>
-
-<p style="text-align: center;">... ist Rubens Kopie von Tizians "Isabella D'Este in Schwarz" verschollen, jedoch existiert ein Kupferstich von Lucas Vorstermann, der wiederum eine Kopie anhand Rubens Version anfertigte. Der Kupferstich ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die Glaubwürdigkeit in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.</p>
+# 
+<p style="text-align: center;"> Außerdem ist Rubens Kopie von Tizians "Isabella D'Este in Schwarz" verschollen, jedoch existiert ein Kupferstich von Lucas Vorstermann, der wiederum eine Kopie anhand Rubens Version anfertigte. Der Kupferstich ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die Glaubwürdigkeit in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.</p>
 
 
 ## 
@@ -105,7 +104,7 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 ---
 
 
-# <h1 style="text-align: center;">Modeikone Isabella D'Este </h1>
+# <h1 style="text-align: center;">III. Modeikone Isabella D'Este </h1>
 _<h2 style="text-align: center;">„Isabella and fashion“</h2>_
 
 <p style="text-align: center;">Mode war für Isabella von größter Bedeutung. Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft modebewusste Hofdame musste ebenso verstehen, welcher gesellschaftlichen Schicht sie angehörte und zu welchem Anlass sie sich kleidete. Diese beiden Aspekte beeinflussen entscheidend, wie die Kleidung von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. Isabella verstand Mode genau auf diese Weise, und ihr Einfluss erstreckte sich über die Grenzen Italiens hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze im Bereich Mode stand sie in regem Briefkontakt mit zahlreichen Personen, die sie um Ratschläge baten und mit ihr Tauschgeschäfte tätigten.</p>
@@ -152,7 +151,7 @@ _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had,
 
 
 ---
-# <h1 style="text-align: center;">Abbildung von Schönheit und Kleidung</h1>
+# <h1 style="text-align: center;">IV. Abbildung von Schönheit und Kleidung</h1>
 _<h2 style="text-align: center;">„Beauty, dress and likeness in portraiture“</h2>_
 
 <p style="text-align: center;">Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen Konflikt: dem Naturalismus und dem Idealismus. Während es als Schönheitsideal galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.</p>
@@ -182,7 +181,7 @@ Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell z
 
 
 ---
-# <h1 style="text-align: center;">Im Detail: Isabella in Rot</h1>
+# <h1 style="text-align: center;">V. Im Detail: Isabella in Rot</h1>
 _<h2 style="text-align: center;">„Isabella in Red“</h2>_
 
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
@@ -217,6 +216,17 @@ _<h2 style="text-align: center;">„Isabella in Red“</h2>_
 
 
 ---
+# <p style="text-align: center;">Wandel im Konzept weibl. Schönheit</p>
+
+<p style="text-align: center;">Trissinos "Ritratti" basiert auf dem antiken Modell des griechisch-römischen Schriftstellers und Rhetorikers Lucian von Samosta. Der sogenannte "Eikones" beschreibt auf ähnliche Weise die äußeren Attribute, doch es gibt wesentliche Unterschiede zwischen den Werken von Trissino und Lucian. Diese Unterschiede verdeutlichen einen gravierenden Wandel in der Auffassung von weiblicher Schönheit.
+
+Während Trissino materielle Aspekte in großer Ausführlichkeit beschreibt, legt Lucian vor allem Wert auf die Tugenden, die Schönheit ausmachen. Nach Lucians Verständnis gehören Selbstbeherrschung, Güte und Freundlichkeit zur Definition von Schönheit.
+
+Trissinos Perspektive hingegen konzentriert sich stärker auf Kleidung und Accessoires, die im 16. Jahrhundert von großer Bedeutung waren. In seiner Sichtweise repräsentieren diese eher materialistischen Attribute die inneren Werte, die Lucian in seinem Modell an erster Stelle nennt.</p>
+
+
+##
+_<p style="text-align: center;">"In the sixteenth century, the ancient Roman concept of female beauty had utterly changed and Trissino understood this perfectly well. Like no other, he knew how to juxtapose Isabella's virtue, dress and beauty. With Trissino as the inspiration for the Portrait of Isabella in Red at hand, it becomes possible to go deeper into the meaning of Isabella's dress in her portrait. Extolling her virtues in the Ritratti, Trissino stated that no one knew how to spend her money on 'praiseworthy' matters better than Isabella, resulting in the virtue of liberalitá, or generosity. (...)"</p>_
 
 
 ---
