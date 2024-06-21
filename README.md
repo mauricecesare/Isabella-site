@@ -1,8 +1,7 @@
 # <h1 style="text-align: center;">Rubens und die Quelle und Ursprung der schönen Mode in Italien. Isabella D'Este in Rot.</h1>
 _<h2 style="text-align: center;">Text von Sara Van Dijk</h2>_
 
-
-## <img src='img/Isabella.jpg' class='noresize'>
+<p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
 
 [Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
 101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg)
@@ -188,8 +187,8 @@ _<h2 style="text-align: center;">„Isabella in Red“</h2>_
 
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
 
-<p style="text-align: center;">[Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
-101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg)</p>
+[Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
+101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg)
 
 
 ---
