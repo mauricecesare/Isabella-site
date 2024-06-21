@@ -216,7 +216,8 @@ _<h2 style="text-align: center;">„Isabella in Red“</h2>_
 
 
 ---
-# <p style="text-align: center;">Wandel im Konzept weibl. Schönheit</p>
+# <h1 style="text-align: center;">VI. Wandel im Konzept weiblicher Schönheit</h1>
+_<h2 style="text-align: center;">„Shift in the Concept of Female Beauty“</h2>_
 
 <p style="text-align: center;">Trissinos "Ritratti" basiert auf dem antiken Modell des griechisch-römischen Schriftstellers und Rhetorikers Lucian von Samosta. Der sogenannte "Eikones" beschreibt auf ähnliche Weise die äußeren Attribute, doch es gibt wesentliche Unterschiede zwischen den Werken von Trissino und Lucian. Diese Unterschiede verdeutlichen einen gravierenden Wandel in der Auffassung von weiblicher Schönheit.</p>
 
