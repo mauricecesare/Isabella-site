@@ -1,6 +1,4 @@
 # <h1 style="text-align: center;">Rubens und "die Quelle und der Ursprung all der schönen Moden in Italien". Das Porträt von Isabella D'Este.</h1>
-_<h2 style="text-align: center;">„Rubens and "the Source and Origin of all the pretty Fashion in Italy". 
-The Portrait of Isabella D'Este.“</h2>_
 _<p style="text-align: center;">ein Text von Sara Van Dijk</p>_
 
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
@@ -56,8 +54,7 @@ Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die In
 ---
 
 
-# <h1 style="text-align: center;">II. Die Art der Reproduktion </h1>
-_<h2 style="text-align: center;">„The nature of the copy“</h2>_
+# <h1 style="text-align: center;">II. Die Eigenschaft der Kopie </h1>
 
 
 ## 
