@@ -149,6 +149,7 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 ## Spionage:
 Um stets auf dem neuesten Stand zu bleiben, ließ Isabella auch andere Frauen, wie beispielsweise **Lucrezia Borgia**, ausspionieren. Anlässlich Lucrezias Hochzeit mit Isabellas Bruder, Alfonso D'Este, bat sie  den Priester in Briefen, **Lucrezia wie ein Schatten zu folgen und ihr über deren Gewohnheiten und Kleidung Bericht zu erstatten**.
 
+
 ## 
 Ein **Zitat von Isabellas Ehemann**, Francesco Gonzaga, aus einem Brief, in dem er klarstellt, dass er über die Begierde Isabellas Bescheid weiß, er jedoch kein geeigneter Botschafter sei:
 
@@ -158,6 +159,46 @@ _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had,
 ## <img src='img/Lucrezia Münze.png' class='noresize'>
 
 [Vorderseite einer "Schaumünze der Lucrezia Borgia, Filippino Lippi, 1806, Kupferstichabbildung, Berliner Münzcabinett](https://de.wikipedia.org/wiki/Datei:LucBorgia.png)
+
+
+---
+# <h1 style="text-align: center;">Abbildung von Schönheit und Kleidung</h1>
+_<h2 style="text-align: center;">„Beauty, dress and likeness in portraiture“</h2>_
+
+Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen Konflikt: dem Naturalismus und dem Idealismus. Während es als Schönheitsideal galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.
+
+Isabella war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer Körperproportionen unzufrieden. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen schriftliche Beschreibungen ihrer Erscheinung. Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie die entsprechenden Kleidungsstücke gar nicht besaß.
+
+
+## War Isabella überhaupt so schön, wie alle behaupten?
+
+Nicht alle Expertinnen sind sich einig, ob es sich bei Isabella D'Este um eine idealisierte Version handele. Pietro Aretino, ein italienischer Schriftsteller aus dem 16. Jahrhundert, beschreibt sie beispielsweise als **monströse Markgräfin**.
+
+
+## Naturalism
+
+
+## Idealism
+
+
+## Schönheit ≠ Schönheit
+Neben dem visuellen Äußeren, stand Isabella unter dem Druck das Talent zu besitzen, sich ihrem Rang und Vermögen entsprechend zu kleiden. Die soziale Stellung bestimmte dabei der Umgang mit Mode. **Schönheit wurde daran gemessen, wie passend die Kleidung zum jeweiligen Ereignis war**.
+
+_"Beauty was not intrinsic to a garment but depended on the **social status** of the wearer (...) otherwise **inappropiate to her rank**."_
+
+
+## 
+Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell zu sitzen. Stattdessen wurden immer häufiger **schriftliche Beschreibungen des Äußeren** oder ältere Porträts an die Künstler:innen geschickt.
+
+
+---
+# <h1 style="text-align: center;">Im Detail: Isabella in Rot</h1>
+_<h2 style="text-align: center;">„Isabella in Red“</h2>_
+
+<img src='img/Isabella.jpg' class='noresize'>
+
+[Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
+101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg)
 
 
 ---
