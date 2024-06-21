@@ -109,7 +109,7 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 # <h1 style="text-align: center;">Modeikone Isabella D'Este </h1>
 _<h2 style="text-align: center;">„Isabella and fashion“</h2>_
 
-<p style="text-align: center;">Mode war für Isabella von größter Bedeutung. Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft modebewusste Hofdame musste ebenso verstehen, welcher gesellschaftlichen Schicht sie angehörte und zu welchem Anlass sie sich kleidete. Diese beiden Aspekte beeinflussen entscheidend, wie die Kleidung von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht.</p>
+<p style="text-align: center;">Mode war für Isabella von größter Bedeutung. Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft modebewusste Hofdame musste ebenso verstehen, welcher gesellschaftlichen Schicht sie angehörte und zu welchem Anlass sie sich kleidete. Diese beiden Aspekte beeinflussen entscheidend, wie die Kleidung von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. Isabella verstand Mode genau auf diese Weise, und ihr Einfluss erstreckte sich über die Grenzen Italiens hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze im Bereich Mode stand sie in regem Briefkontakt mit zahlreichen Personen, die sie um Ratschläge baten und mit ihr Tauschgeschäfte tätigten.</p>
 
 
 ## "Libro del cortegiano":
@@ -122,11 +122,6 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 [Libro del cortegiano, Baldassarre Castiglione, 1549](https://commons.wikimedia.org/wiki/File:Baldessare_Castiglione_-_Il_Cortigiano_(1549).tiff)
 
 
----
-#
-<p style="text-align: center;">Isabella verstand Mode genau auf diese Weise, und ihr Einfluss erstreckte sich über die Grenzen Italiens hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze im Bereich Mode stand sie in regem Briefkontakt mit zahlreichen Personen, die sie um Ratschläge baten und mit ihr Tauschgeschäfte tätigten.</p>
-
-
 ## Frankreich:
 
 **Frz. König, Francis I** fragt Isabella nach Modepuppen, die die gleiche Kleidung wie sie tragen. Diese Puppen möchte er den Frauen in Frankreich zeigen, um sie damit zu inspirieren ähnliche Kleidung zu tragen.
@@ -135,10 +130,6 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 ## Polen:
 
 **Pln. Königin, Bona Sforza** führt Tauschgeschäfte mit Isabella durch. Sie tauscht Tierfelle gegen Isabellas neuste Innovation: gold/silberne Haarnetze
-
-
-##
-**Isabella** gewinnt großes Ansehen als Erfinderin neuer Mode und gilt als Vorbild für alle Frauen des Hofes in ganz Europa.
 
 
 ---
@@ -165,9 +156,9 @@ _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had,
 # <h1 style="text-align: center;">Abbildung von Schönheit und Kleidung</h1>
 _<h2 style="text-align: center;">„Beauty, dress and likeness in portraiture“</h2>_
 
-Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen Konflikt: dem Naturalismus und dem Idealismus. Während es als Schönheitsideal galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.
+<p style="text-align: center;">Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen Konflikt: dem Naturalismus und dem Idealismus. Während es als Schönheitsideal galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.
 
-Isabella war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer Körperproportionen unzufrieden. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen schriftliche Beschreibungen ihrer Erscheinung. Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie die entsprechenden Kleidungsstücke gar nicht besaß.
+Isabella war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer Körperproportionen unzufrieden. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen schriftliche Beschreibungen ihrer Erscheinung. Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie die entsprechenden Kleidungsstücke gar nicht besaß.</p>
 
 
 ## War Isabella überhaupt so schön, wie alle behaupten?
@@ -195,10 +186,10 @@ Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell z
 # <h1 style="text-align: center;">Im Detail: Isabella in Rot</h1>
 _<h2 style="text-align: center;">„Isabella in Red“</h2>_
 
-<img src='img/Isabella.jpg' class='noresize'>
+<p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
 
-[Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
-101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg)
+<p style="text-align: center;">[Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
+101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg)</p>
 
 
 ---
