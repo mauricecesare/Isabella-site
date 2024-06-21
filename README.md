@@ -1,4 +1,4 @@
-# <h1 style="text-align: center;">Rubens und "die Quelle und der Ursprung all der schönen Moden in Italien". \\
+# <h1 style="text-align: center;">Rubens und "die Quelle und der Ursprung all der schönen Moden in Italien". \
  Das Porträt von Isabella D'Este.</h1>
 _<p style="text-align: center;">ein Text von Sara Van Dijk</p>_
 
