@@ -80,9 +80,9 @@ es gibt eine zweite, sehr ähnliche Version von Tizians "Girl with a fan", mit d
 ---
 
 
-# <h1 style="text-align: center;">Außerdem...</h1>
+# <h1 style="text-align: center;">Außerdem</h1>
 
-<p style="text-align: center;">Rubens Kopie von Tizians "Isabella D'Este in Schwarz" ist verschollen, jedoch existiert ein Kupferstich von Lucas Vorstermann, der sich wiederum eine Kopie Rubens anfertigte. Der Kupferstich ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die Glaubwürdigkeit in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.</p>
+<p style="text-align: center;">... ist Rubens Kopie von Tizians "Isabella D'Este in Schwarz" verschollen, jedoch existiert ein Kupferstich von Lucas Vorstermann, der wiederum eine Kopie anhand Rubens Version anfertigte. Der Kupferstich ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die Glaubwürdigkeit in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.</p>
 
 
 ## 
