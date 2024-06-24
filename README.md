@@ -15,11 +15,11 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 
 ##
-**Gesprächsdialog** zwischen Pietro Bembo und Macro Vicenzio über Marcos Sichtung und Bewunderung von Isabella D'Este in Ferrara. Dialog ist festgehalten im Ritratti" von Gian Giorgio Trissino, welches um 1524 veröffentlicht wurde.
+**Gesprächsdialog** zwischen **Pietro Bembo und Macro Vicenzio** über Marcos Sichtung und Bewunderung von Isabella D'Este in Ferrara. Dialog ist festgehalten im **Ritratti**" von Gian Giorgio Trissino, welches um 1524 veröffentlicht wurde.
 
 
 ##
-**"Ritratti"**: schriftliche Portraitaufnahme, wahrscheinlich fiktiv, um auf etwas hinzuweisen. Der Ursprung dieser Herangehensweise findet sich in der Antike mit einem ähnlichem Modell "Eikones".
+**"Ritratti"**: schriftliche **Portraitaufnahme**, wahrscheinlich fiktiv, um auf etwas hinzuweisen. Der Ursprung dieser Herangehensweise findet sich in der Antike mit einem ähnlichem Modell "Eikones".
 
 
 ## <img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg' class='noresize'>
@@ -31,11 +31,11 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 ---
 
 
-# <h1 style="text-align: center;">I. Isabella D'Este und die Faszination Rubens</h1>
+# <h1 style="text-align: center;">Isabella D'Este und die Faszination Rubens</h1>
 
 
-## <p style="text-align: center;">
-<p style="text-align: center;">Isabella lebte von 1474‒1539 und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als Verkörperung der Eleganz und als führende Vorreiterin der Modewelt bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "studiolo". Da das Originalporträt von Tizian leider verloren gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.</p>
+## 
+Isabella lebte von **1474‒1539** und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als **Verkörperung der Eleganz** und als führende Vorreiterin der **Modewelt** bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "_studiolo_". Da das **Originalporträt von Tizian leider verloren** gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.
 
 
 ## Peter Paul Rubens
@@ -56,11 +56,11 @@ Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die In
 ---
 
 
-# <h1 style="text-align: center;">II. Die Eigenschaft der Kopie </h1>
+# <h1 style="text-align: center;">Die Eigenschaft der Kopie </h1>
 
 
 ## 
-Im Jahr 1600 begann Peter Paul Rubens seine Karriere als Hofmaler von Vincenzo Gonzaga (1562–1612), dem Urenkel Isabellas, in Mantua. Während dieser Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den venezianischen Meister entfachte. Die frühen Werke von Rubens zeichneten sich durch einen präzisen und glatten Farbauftrag aus, im Stil der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ späterer Arbeitsweise, die durch eine freiere und spontanere Pinselführung geprägt war.
+Im Jahr 1600 begann **Peter Paul Rubens** seine Karriere als **Hofmaler** von Vincenzo Gonzaga (1562–1612), dem Urenkel Isabellas, in Mantua. Während dieser Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den venezianischen Meister entfachte. Die frühen Werke von Rubens zeichneten sich durch einen **präzisen und glatten Farbauftrag** aus, im Stil der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ **späterer Arbeitsweise**, die durch eine **freiere und spontanere Pinselführung** geprägt war.
 
 
 ## <img src='img/90.jpeg' class='noresize'>
@@ -85,7 +85,7 @@ es gibt eine zweite, sehr ähnliche Version von Tizians "Girl with a fan", mit d
 
 
 ## 
-<p style="text-align: center;"> Außerdem ist Rubens Kopie von Tizians "Isabella D'Este in Schwarz" verschollen, jedoch existiert ein Kupferstich von Lucas Vorstermann, der wiederum eine Kopie anhand Rubens Version anfertigte. Der Kupferstich ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die Glaubwürdigkeit in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.</p>
+Außerdem ist Rubens Kopie von **Tizians "Isabella D'Este in Schwarz" verschollen**, jedoch existiert ein Kupferstich von **Lucas Vorstermann**, der wiederum eine Kopie anhand Rubens Version anfertigte. Der **Kupferstich** ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die **Glaubwürdigkeit** in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.
 
 
 ## 
@@ -105,11 +105,11 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 ---
 
 
-# <h1 style="text-align: center;">III. Vorreiterin der Mode Isabella D'Este </h1>
+# <h1 style="text-align: center;">Vorreiterin der Mode Isabella D'Este </h1>
 
 
 ## 
-<p style="text-align: center;">Mode war für Isabella von größter Bedeutung. Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft modebewusste Hofdame musste ebenso verstehen, welcher gesellschaftlichen Schicht sie angehörte und zu welchem Anlass sie sich kleidete. Diese beiden Aspekte beeinflussen entscheidend, wie die Kleidung von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. Isabella verstand Mode genau auf diese Weise, und ihr Einfluss erstreckte sich über die Grenzen Italiens hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze im Bereich Mode stand sie in regem Briefkontakt mit zahlreichen Personen, die sie um Ratschläge baten und mit ihr Tauschgeschäfte tätigten.</p>
+Mode war für Isabella von größter Bedeutung. Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft modebewusste Hofdame musste ebenso verstehen, welcher **gesellschaftlichen Schicht** sie angehörte und zu welchem Anlass sie sich kleidete. Diese beiden Aspekte beeinflussen entscheidend, wie die Kleidung von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. Isabella verstand Mode genau auf diese Weise, und ihr **Einfluss erstreckte sich über die Grenzen Italiens** hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze im Bereich Mode stand sie in regem **Briefkontakt** mit zahlreichen Personen, die sie um **Ratschläge** baten und mit ihr **Tauschgeschäfte** tätigten.
 
 
 ## "Libro del cortegiano":
@@ -137,7 +137,7 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 
 
 ##
-<p style="text-align: center;">Isabella verfügte über ein Netzwerk von Agenten, die im gesamten Land nach den feinsten Stoffen und Materialien suchten, stets bereit, Neuheiten zu erwerben und Isabella zu präsentieren. Kosten spielten dabei keine Rolle, und obwohl Isabella finanzielle Schwierigkeiten hatte, zeigt der umfangreiche Briefverkehr mit den sogenannten "Zigliolo" (bevollmächtigte Handelsvertreter), dass sie keinerlei Einsparungen machte, wenn es um die Beschaffung neuer Stoffe und Materialien ging.</p>
+Isabella verfügte über ein **Netzwerk von Agenten**, die im gesamten Land nach den feinsten Stoffen und Materialien suchten, stets bereit, Neuheiten zu erwerben und Isabella zu präsentieren. **Kosten spielten dabei keine Rolle**, und obwohl Isabella finanzielle Schwierigkeiten hatte, zeigt der umfangreiche **Briefverkehr** mit den sogenannten "_Zigliolo_" (bevollmächtigte Handelsvertreter), dass sie keinerlei Einsparungen machte, wenn es um die Beschaffung neuer Stoffe und Materialien ging.
 
 
 ## Spionage:
@@ -156,13 +156,13 @@ _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had,
 
 
 ---
-# <h1 style="text-align: center;">IV. Abbildung von Schönheit und Kleidung</h1>
+# <h1 style="text-align: center;">Abbildung von Schönheit und Kleidung</h1>
 
 
 ##
-<p style="text-align: center;">Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen Konflikt: dem Naturalismus und dem Idealismus. Während es als Schönheitsideal galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.</p>
+Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen **Konflikt**: dem **Naturalismus und dem Idealismus**. Während es als **Schönheitsideal** galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.
 
-<p style="text-align: center;">Isabella war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer Körperproportionen unzufrieden. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen schriftliche Beschreibungen ihrer Erscheinung. Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie die entsprechenden Kleidungsstücke gar nicht besaß.</p>
+**Isabella** war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer **Körperproportionen unzufrieden**. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen **schriftliche Beschreibungen** ihrer Erscheinung. Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie die entsprechenden Kleidungsstücke gar nicht besaß.
 
 
 ## War Isabella überhaupt so schön, wie alle behaupten?
@@ -187,7 +187,7 @@ Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell z
 
 
 ---
-# <h1 style="text-align: center;">V. Im Detail: Isabella in Rot</h1>
+# <h1 style="text-align: center;">Im Detail: Isabella in Rot</h1>
 
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
 
@@ -221,13 +221,13 @@ Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell z
 
 
 ---
-# <h1 style="text-align: center;">VI. Wandel im Konzept weiblicher Schönheit</h1>
+# <h1 style="text-align: center;">Wandel im Konzept weiblicher Schönheit</h1>
 
 
 ##
-<p style="text-align: center;">Trissinos "Ritratti" basiert auf dem antiken Modell des griechisch-römischen Schriftstellers und Rhetorikers Lucian von Samosta. Der sogenannte "Eikones" beschreibt auf ähnliche Weise die äußeren Attribute, doch es gibt wesentliche Unterschiede zwischen den Werken von Trissino und Lucian. Diese Unterschiede verdeutlichen einen gravierenden Wandel in der Auffassung von weiblicher Schönheit. Während Trissino materielle Aspekte in großer Ausführlichkeit beschreibt, legt Lucian vor allem Wert auf die Tugenden, die Schönheit ausmachen. Nach Lucians Verständnis gehören Selbstbeherrschung, Güte und Freundlichkeit zur Definition von Schönheit.</p>
+Trissinos **"Ritratti"** basiert auf dem antiken Modell des griechisch-römischen Schriftstellers und Rhetorikers Lucian von Samosta. Der sogenannte **"Eikones"** beschreibt auf ähnliche Weise die äußeren Attribute, doch es gibt wesentliche Unterschiede zwischen den Werken von Trissino und Lucian. Diese Unterschiede verdeutlichen einen gravierenden **Wandel in der Auffassung von weiblicher Schönheit**. Während Trissino materielle Aspekte in großer Ausführlichkeit beschreibt, legt Lucian vor allem Wert auf die Tugenden, die Schönheit ausmachen. Nach Lucians Verständnis gehören **Selbstbeherrschung, Güte und Freundlichkeit** zur Definition von Schönheit.
 
-<p style="text-align: center;">Trissinos Perspektive hingegen konzentriert sich stärker auf Kleidung und Accessoires, die im 16. Jahrhundert von großer Bedeutung waren. In seiner Sichtweise repräsentieren diese eher materialistischen Attribute die inneren Werte, die Lucian in seinem Modell an erster Stelle nennt.</p>
+Trissinos Perspektive hingegen konzentriert sich stärker auf **Kleidung und Accessoires**, die im 16. Jahrhundert von großer Bedeutung waren. In seiner Sichtweise repräsentieren diese eher **materialistischen Attribute** die inneren Werte, die Lucian in seinem Modell an erster Stelle nennt.
 
 
 ##
