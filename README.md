@@ -17,7 +17,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 
 ##
-**"Ritratti"**: schriftliche **Portraitaufnahme**, wahrscheinlich fiktiv, um auf etwas hinzuweisen. <br />Der Ursprung dieser Herangehensweise findet sich in der Antike mit einem ähnlichem Modell "Eikones".
+**"Ritratti"**: schriftliche **Portraitaufnahme**, wahrscheinlich fiktiv, um auf etwas hinzuweisen. <br />Der Ursprung dieser Herangehensweise findet sich<br /> in der Antike mit einem ähnlichem Modell "Eikones".
 
 
 ## <img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg' class='noresize'>
