@@ -101,7 +101,7 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 ---
 
 
-# Vorreiterin der Mode Isabella D'Este
+# Isabella als <br /> Vorreiterin der Mode
 
 
 ## 
