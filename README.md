@@ -137,7 +137,8 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 
 
 ##
-Isabella verfügte über ein **Netzwerk von Agenten**, die im gesamten Land nach den feinsten Stoffen und Materialien suchten, stets bereit, Neuheiten zu erwerben und Isabella zu präsentieren. **Kosten spielten dabei keine Rolle**, und obwohl Isabella finanzielle Schwierigkeiten hatte, zeigt der umfangreiche **Briefverkehr** mit den sogenannten "_Zigliolo_" (bevollmächtigte Handelsvertreter), dass sie keinerlei Einsparungen machte, wenn es um die Beschaffung neuer Stoffe und Materialien ging.
+Isabella verfügte über ein **Netzwerk von Agenten**, die im gesamten Land nach den feinsten Stoffen und Materialien suchten, stets bereit, Neuheiten zu erwerben und Isabella zu präsentieren. <br />
+<br />**Kosten spielten dabei keine Rolle**, und obwohl Isabella finanzielle Schwierigkeiten hatte, zeigt der umfangreiche **Briefverkehr** mit den sogenannten "_Zigliolo_" (bevollmächtigte Handelsvertreter), dass sie keinerlei Einsparungen machte, wenn es um die Beschaffung neuer Stoffe und Materialien ging.
 
 
 ## Spionage:
@@ -152,7 +153,7 @@ _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had,
 
 ## <img src='img/Lucrezia_Muenze.png' class='noresize'>
 
-[Vorderseite einer "Schaumünze der Lucrezia Borgia, Filippino Lippi, 1806, Kupferstichabbildung, Berliner Münzcabinett](https://de.wikipedia.org/wiki/Datei:LucBorgia.png)
+[Vorderseite einer "Schaumünze der Lucrezia Borgia, Filippino Lippi, 1806, Kupferstichabbildung, Berliner Münzkabinett](https://de.wikipedia.org/wiki/Datei:LucBorgia.png)
 
 
 ---
