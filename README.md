@@ -107,8 +107,8 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 
 
 ## 
-Mode war für Isabella von größter Bedeutung. <br />Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft modebewusste Hofdame musste ebenso verstehen, welcher **gesellschaftlichen Schicht** sie angehörte und zu welchem Anlass sie sich kleidete. Diese beiden <br />Aspekte beeinflussen entscheidend, wie die Kleidung <br />von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. <br />
-<br />Isabella verstand Mode genau auf diese Weise, und ihr **Einfluss erstreckte sich über die Grenzen Italiens** hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze im Bereich Mode stand sie in regem **Briefkontakt** mit zahlreichen Personen, die sie um **Ratschläge** baten und mit ihr **Tauschgeschäfte** tätigten.
+**Mode war für Isabella von größter Bedeutung**. <br />Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft mode-<br />bewusste Hofdame musste ebenso verstehen, welcher **gesellschaftlichen Schicht** sie angehörte und zu welchem Anlass sie sich kleidete. Diese beiden <br />Aspekte beeinflussen entscheidend, wie die Kleidung <br />von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. <br />
+<br />Isabella verstand Mode genau auf diese Weise, und ihr **Einfluss erstreckte sich über die Grenzen Italiens** hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze in der Mode stand sie in regem **Briefkontakt** mit zahlreichen Personen, die sie um **Ratschläge** baten und mit ihr **Tauschgeschäfte** tätigten.
 
 
 ## "Libro del cortegiano":
