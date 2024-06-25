@@ -52,7 +52,7 @@ Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die In
 ---
 
 
-# <h1 style="text-align: center;">Die Eigenschaft der Kopie </h1>
+# Die Eigenschaft der Kopie
 
 
 ## 
@@ -101,7 +101,7 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 ---
 
 
-# <h1 style="text-align: center;">Vorreiterin der Mode Isabella D'Este </h1>
+# Vorreiterin der Mode Isabella D'Este
 
 
 ## 
@@ -152,7 +152,7 @@ _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had,
 
 
 ---
-# <h1 style="text-align: center;">Abbildung von Schönheit und Kleidung</h1>
+# Abbildung von Schönheit und Kleidung
 
 
 ##
@@ -183,7 +183,7 @@ Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell z
 
 
 ---
-# <h1 style="text-align: center;">Im Detail: Isabella in Rot</h1>
+# Im Detail: Isabella in Rot
 
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
 
@@ -217,7 +217,7 @@ Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell z
 
 
 ---
-# <h1 style="text-align: center;">Wandel im Konzept weiblicher Schönheit</h1>
+# Wandel im Konzept weiblicher Schönheit
 
 
 ##
