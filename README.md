@@ -1,7 +1,7 @@
 # <h1 style="text-align: center;">Rubens und "die Quelle<br /> und Ursprung all der <br />schönen Moden in Italien". <br />Das Porträt von Isabella D'Este.</h1>
 _<p style="text-align: center;">Ein Text von Sara Van Dijk</p>_
 
-<p style="text-align: center;"><img src='img/Isabella.jpg' class='resize'></p>
+<p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
 
 [Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
 101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://www.digitale-sammlungen.de/de/view/bsb11283404?page=5)
@@ -82,7 +82,8 @@ es gibt eine **zweite, sehr ähnliche Version** von Tizians "Girl with a fan", m
 
 
 ## 
-Außerdem ist Rubens Kopie von **Tizians "Isabella D'Este in Schwarz" verschollen**, jedoch existiert ein Kupferstich von **Lucas Vorstermann**, der wiederum eine Kopie anhand Rubens Version anfertigte. Der **Kupferstich** ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die **Glaubwürdigkeit** in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.
+Außerdem ist Rubens Kopie von **Tizians "Isabella <br />D'Este in Schwarz" verschollen**, jedoch existiert ein Kupferstich von **Lucas Vorstermann**, der wiederum <br />eine Kopie anhand Rubens Version anfertigte. <br />
+<br />Der **Kupferstich** ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die **Glaubwürdigkeit** in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.
 
 
 ## 
@@ -106,7 +107,8 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 
 
 ## 
-Mode war für Isabella von größter Bedeutung. Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft modebewusste Hofdame musste ebenso verstehen, welcher **gesellschaftlichen Schicht** sie angehörte und zu welchem Anlass sie sich kleidete. Diese beiden Aspekte beeinflussen entscheidend, wie die Kleidung von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. Isabella verstand Mode genau auf diese Weise, und ihr **Einfluss erstreckte sich über die Grenzen Italiens** hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze im Bereich Mode stand sie in regem **Briefkontakt** mit zahlreichen Personen, die sie um **Ratschläge** baten und mit ihr **Tauschgeschäfte** tätigten.
+Mode war für Isabella von größter Bedeutung. <br />Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft modebewusste Hofdame musste ebenso verstehen, welcher **gesellschaftlichen Schicht** sie angehörte und zu welchem Anlass sie sich kleidete. Diese beiden <br />Aspekte beeinflussen entscheidend, wie die Kleidung <br />von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. <br />
+<br />Isabella verstand Mode genau auf diese Weise, und ihr **Einfluss erstreckte sich über die Grenzen Italiens** hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze im Bereich Mode stand sie in regem **Briefkontakt** mit zahlreichen Personen, die sie um **Ratschläge** baten und mit ihr **Tauschgeschäfte** tätigten.
 
 
 ## "Libro del cortegiano":
