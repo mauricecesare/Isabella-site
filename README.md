@@ -119,7 +119,7 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 
 ## <img src='img/v2_bsb11283404_00005_full_full_0_default.jpg' class='noresize'>
 
-[Libro del cortegiano, Baldessar Castiglione, 1556, Buchdruck, Augsburg, Staats- und Stadtbibliothek, Inv.-Nr: Stw_9949](https://commons.wikimedia.org/wiki/File:Baldessare_Castiglione_-_Il_Cortigiano_(1549).tiff)
+[Libro del cortegiano, Baldessar Castiglione, 1556, Buchdruck, Augsburg, Staats- und Stadtbibliothek, Inv.-Nr: Stw_9949]([https://commons.wikimedia.org/wiki/File:Baldessare_Castiglione_-_Il_Cortigiano_(1549).tiff](https://www.digitale-sammlungen.de/de/view/bsb11283404?page=5))
 
 
 ## Frankreich:
