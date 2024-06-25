@@ -89,7 +89,7 @@ Außerdem ist Rubens Kopie von **Tizians "Isabella D'Este in Schwarz" verscholle
 
 
 ## 
-_<p style="text-align: center;">"However, it should be noted that the panel has never been technically examined. We should be wary of accepting the early twentieth-century connoisseurship too readily, and we cannot exclude the possibility that this copy was produced after Rubens rather than directly after Tizian."</p>_
+_<p style="text-align: center;">"However, it should be noted that the panel has never been **technically examined**. We should be wary of accepting the early twentieth-century connoisseurship too readily, and we cannot exclude the possibility that this copy was produced after Rubens rather than directly after Tizian."</p>_
 
 
 ## <img src='img/DPI13258655__70037.jpg' class='noresize'>
