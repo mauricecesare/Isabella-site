@@ -1,5 +1,5 @@
 # <h1 style="text-align: center;">Rubens und "die Quelle und der Ursprung all der schönen Moden in Italien". Das Porträt von Isabella D'Este. </h>
-_<p style="text-align: center;">ein Text von Sara Van Dijk</p>_
+_<p style="text-align: center;">Ein Text von Sara Van Dijk</p>_
 
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
 
@@ -150,7 +150,7 @@ Ein **Zitat von Isabellas Ehemann**, Francesco Gonzaga, aus einem Brief, in dem 
 _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had, we do not write anything else other than that they were all bedecked with very precious jewels, because it is beyond our profession."_
 
 
-## <img src='img/Lucrezia Münze.png' class='noresize'>
+## <img src='img/Lucrezia_Münze.png' class='noresize'>
 
 [Vorderseite einer "Schaumünze der Lucrezia Borgia, Filippino Lippi, 1806, Kupferstichabbildung, Berliner Münzcabinett](https://de.wikipedia.org/wiki/Datei:LucBorgia.png)
 
