@@ -35,7 +35,7 @@ Isabella lebte von **1474‒1539** und war Markgräfin von Mantua, einer Stadt i
 
 ## Peter Paul Rubens
 
-Sein Interesse wurde geweckt und so malte er <br />Isabella D'Este das erste Mal im **Jahr 1600‒01** <br />durch eine verschollene Abbildung von Tizian. Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizians Technik war, sondern weil er ein **großes Interesse** für den **historischen Kleidungsstil** hatte.
+Sein Interesse wurde geweckt und so malte er <br />Isabella D'Este das erste Mal im **Jahr 1600‒01** <br />durch eine verschollene Abbildung von Tizian. Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizians Technik war, sondern weil er ein **großes Interesse** für **historische Kleidungsstile** hatte.
 
 
 ## Können wir Rubens Kopien trauen? 
