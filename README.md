@@ -1,7 +1,7 @@
 # <h1 style="text-align: center;">Rubens und "die Quelle<br /> und Ursprung all der <br />schönen Moden in Italien". <br />Das Porträt von Isabella D'Este.</h1>
 _<p style="text-align: center;">Ein Text von Sara Van Dijk</p>_
 
-<p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
+<p style="text-align: center;"><img src='img/Isabella.jpg' class='resize'></p>
 
 [Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
 101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://www.digitale-sammlungen.de/de/view/bsb11283404?page=5)
@@ -57,7 +57,7 @@ Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die In
 
 ## 
 Im Jahr 1600 begann **Peter Paul Rubens** seine Karriere als **Hofmaler** von Vincenzo Gonzaga (1562–1612), <br />dem Urenkel Isabellas, in Mantua. Während dieser <br />Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den venezianischen Meister entfachte. <br />
-<br />Die frühen Werke von Rubens zeichneten sich durch einen **präzisen und glatten Farbauftrag** aus, im Stil <br />der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ **späterer Arbeitsweise**, die durch eine <br />**freiere und spontanere Pinselführung** geprägt war.
+<br />Die frühen Werke von Rubens zeichneten sich durch einen **präzisen und glatten Farbauftrag** aus, im Stil <br />der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ **späterer Arbeitsweise**, die durch eine <br />**freie und spontane Pinselführung** geprägt war.
 
 
 ## <img src='img/90.jpeg' class='noresize'>
