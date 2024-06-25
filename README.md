@@ -1,4 +1,4 @@
-# <h1 style="text-align: center;">Rubens und "die Quelle und Ursprung all der schönen Moden in Italien". Das Porträt von Isabella D'Este. </h>
+# <h1 style="text-align: center;">Rubens und "die Quelle und Ursprung all der schönen <br />Moden in Italien". <br />Das Porträt von Isabella D'Este. </h>
 _<p style="text-align: center;">Ein Text von Sara Van Dijk</p>_
 
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
@@ -226,7 +226,7 @@ Trissinos Perspektive hingegen konzentriert sich stärker auf **Kleidung und Acc
 
 
 ##
-_<p style="text-align: center;">"In the sixteenth century, the ancient Roman concept of female beauty had utterly changed and Trissino understood this perfectly well. Like no other, he knew how to juxtapose Isabella's virtue, dress and beauty. With Trissino as the inspiration for the Portrait of Isabella in Red at hand, it becomes possible to go deeper into the meaning of Isabella's dress in her portrait. Extolling her virtues in the Ritratti, Trissino stated that no one knew how to spend her money on 'praiseworthy' matters better than Isabella, resulting in the virtue of liberalitá, or generosity. (...)"</p>_
+_<p style="text-align: center;">"In the sixteenth century, the ancient Roman concept of female beauty had utterly changed and Trissino understood this perfectly well. Like no other, he knew how to juxtapose Isabella's virtue, dress and beauty. With Trissino as the inspiration for the Portrait of Isabella in Red at hand, it becomes possible to go deeper into the meaning of Isabella's dress in her portrait. **Extolling her virtues in the Ritratti, Trissino stated that no one knew how to spend her money on 'praiseworthy' matters better than Isabella, resulting in the virtue of liberalitá, or generosity.** (...)"</p>_
 
 
 ---
