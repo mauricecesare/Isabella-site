@@ -57,7 +57,7 @@ Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die In
 
 ## 
 Im Jahr 1600 begann **Peter Paul Rubens** seine Karriere als **Hofmaler** von Vincenzo Gonzaga (1562–1612), <br />dem Urenkel Isabellas, in Mantua. Während dieser <br />Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den venezianischen Meister entfachte. <br />
-<br />Die frühen Werke von Rubens zeichneten sich durch einen **präzisen und glatten Farbauftrag** aus, im Stil <br />der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ **späterer Arbeitsweise**, die durch eine **freiere und spontanere Pinselführung** geprägt war.
+<br />Die frühen Werke von Rubens zeichneten sich durch einen **präzisen und glatten Farbauftrag** aus, im Stil <br />der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ **späterer Arbeitsweise**, die durch eine <br />**freiere und spontanere Pinselführung** geprägt war.
 
 
 ## <img src='img/90.jpeg' class='noresize'>
@@ -72,7 +72,7 @@ Im Jahr 1600 begann **Peter Paul Rubens** seine Karriere als **Hofmaler** von Vi
 
 ## ...doch alles fake?!
 
-es gibt eine **zweite, sehr ähnliche Version** von Tizians "Girl with a fan", mit den gleichen Attributen, weißes Satin Kleid, goldene Verzierungen und ein grünes Blatt im Ausschnitt. Diese stellt das **wahre Abbild für Rubens Kopie** dar und unterstreicht erneut, die Präzision Rubens, für den die Genauigkeit der Kopie besonders bei Tizian's Vorbild wichtig war.
+es gibt eine **zweite, sehr ähnliche Version** von Tizians "Girl with a fan", mit den gleichen Attributen, weißes Satin Kleid, goldene Verzierungen und ein grünes Blatt im Ausschnitt. Diese stellt das **wahre Abbild für Rubens Kopie** dar und unterstreicht erneut, die Präzision Rubens, für den die Genauigkeit der Kopie <br />besonders bei Tizian's Vorbild wichtig war.
 
 
 ---
