@@ -31,7 +31,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 ---
 
 
-# <h1 style="text-align: center;">Rubens' Faszination   für Isabella D'Este</h1>
+# <h1 style="text-align: center;">Rubens' Faszination  für Isabella d'Este</h1>
 
 
 ## 
