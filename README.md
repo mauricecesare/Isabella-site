@@ -4,7 +4,7 @@ _<p style="text-align: center;">ein Text von Sara Van Dijk</p>_
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
 
 [Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
-101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg)
+101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534](https://www.digitale-sammlungen.de/de/view/bsb11283404?page=5)
 
 
 ---
