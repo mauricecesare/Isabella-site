@@ -150,7 +150,7 @@ Ein **Zitat von Isabellas Ehemann**, Francesco Gonzaga, aus einem Brief, in dem 
 _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had, we do not write anything else other than that they were all bedecked with very precious jewels, because it is beyond our profession."_
 
 
-## <img src='img/Lucrezia_Münze.png' class='noresize'>
+## <img src='img/Lucrezia_Muenze.png' class='noresize'>
 
 [Vorderseite einer "Schaumünze der Lucrezia Borgia, Filippino Lippi, 1806, Kupferstichabbildung, Berliner Münzcabinett](https://de.wikipedia.org/wiki/Datei:LucBorgia.png)
 
