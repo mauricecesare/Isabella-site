@@ -17,7 +17,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 
 ##
-**"Ritratti"**: schriftliche **Portraitaufnahme**, wahrscheinlich fiktiv, um auf etwas hinzuweisen. Der Ursprung dieser Herangehensweise findet sich in der Antike mit einem ähnlichem Modell "Eikones".
+**"Ritratti"**: schriftliche **Portraitaufnahme**, wahrscheinlich fiktiv, um auf etwas hinzuweisen. <br />Der Ursprung dieser Herangehensweise findet sich in der Antike mit einem ähnlichem Modell "Eikones".
 
 
 ## <img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg' class='noresize'>
@@ -30,12 +30,12 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 
 ## 
-Isabella lebte von **1474‒1539** und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als **Verkörperung der Eleganz** und als führende Vorreiterin der **Modewelt** bekannt. Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "_studiolo_". Da das **Originalporträt von Tizian leider verloren** gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.
+Isabella lebte von **1474‒1539** und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als **Verkörperung der Eleganz** und als führende Vorreiterin der **Modewelt** bekannt. <br />Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "_studiolo_". Da das **Originalporträt von Tizian leider verloren** gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.
 
 
 ## Peter Paul Rubens
 
-Sein Interesse wurde geweckt und so malte er Isabella D'Este das erste Mal im **Jahr 1600‒01** durch eine verschollene Abbildung von Tizian. Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizians Technik war, sondern weil er ein **großes Interesse** für den **historischen Kleidungsstil** hatte.
+Sein Interesse wurde geweckt und so malte er <br />Isabella D'Este das erste Mal im **Jahr 1600‒01** durch eine verschollene Abbildung von Tizian. Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizians Technik war, sondern weil er ein **großes Interesse** für den **historischen Kleidungsstil** hatte.
 
 
 ## Können wir Rubens Kopien trauen? 
