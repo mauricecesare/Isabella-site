@@ -32,7 +32,6 @@ html {
 body {
     font-family: hkgrotesk, sans-serif;
 	touch-action: pan-x pan-y;
-    --theme-color:rgb(100,0,0);
     --background-menu: hsla(0, 0%, 100%, .8);
     --background: color-mix(in srgb, var(--theme-color) 15%, hsla(0, 0%, 90%, 1));
     --background-cursor: color-mix(in srgb, var(--theme-color) 10%, hsla(0, 0%, 95%, .9));
