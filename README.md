@@ -117,17 +117,17 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 <br />Er betont die Bedeutung der richtigen Kleidung zur richtigen Zeit und am richtigen Ort, um persönliche <br />und äußere Stärken zu betonen. Außerdem soll die ideale Hofdame das nötige **Selbstvertrauen** besitzen und durch ihr Wissen um die angemessene Kleidung diese mit **ausgewählten Bewegungen und Worten** ergänzen.
 
 
-## <img src='img/v2_bsb11283404_00005_full_full_0_default.jpg' class='noresize'>
+## <img src='img/v2_bsb11283404_00005_full_full_0_default.jpg' class='noresize' class='app.overlay'>
 
 [Libro del cortegiano, Baldessar Castiglione, 1556, Buchdruck, Augsburg, Staats- und Stadtbibliothek, Inv.-Nr: Stw_9949]([https://commons.wikimedia.org/wiki/File:Baldessare_Castiglione_-_Il_Cortigiano_(1549).tiff](https://www.digitale-sammlungen.de/de/view/bsb11283404?page=5))
 
 
-## Frankreich:
+## Frankreich
 
 **Frz. König, Francis I** fragt Isabella nach Modepuppen, die die gleiche Kleidung wie sie tragen. Diese Puppen möchte er den Frauen in Frankreich zeigen, um sie damit zu inspirieren ähnliche Kleidung zu tragen.
 
 
-## Polen:
+## Polen
 
 **Pln. Königin, Bona Sforza** führt Tauschgeschäfte mit Isabella durch. Sie tauscht Tierfelle gegen Isabellas neuste Innovation: gold/silberne Haarnetze
 
