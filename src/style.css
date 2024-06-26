@@ -42,14 +42,14 @@ body {
     --hover: var(--theme-color);
     margin: 0;
     overflow-x: hidden;
-    background-color: color-mixin srgb, Evar(--theme-color) 5%,hsla (205.18, 39.86%4.65%, 1);
+    background-color: var(--background);
     color: var(--font);
 }
 
 @media (prefers-color-scheme: dark) {
     body, body.overlay{
         --background-menu: hsla(0, 0%, 0%, .8);
-        --background: hsla(0, 0%, 90%, 1);
+        --background: color-mix(in srgb, var(--theme-color) 5%, hsla(0, 0%, 5%, 1));
         --background-cursor: color-mix(in srgb, var(--theme-color) 10%, hsla(0, 0%, 10%, .9));
         --background-content: color-mix(in srgb, var(--theme-color) 15%, hsla(0, 0%, 15%, .95));
         --font: #fff;
@@ -90,7 +90,7 @@ body {
 
 #app.overlay .content.enlarged, #app.overlay .content.enlarged a {
     opacity: 1;
-    color: hsla (179.07 14.61%, 27.92%, 0.95);
+    color: var(--background);
     background-color: var(--background);
 }
 
