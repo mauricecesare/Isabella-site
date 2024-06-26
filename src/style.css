@@ -136,7 +136,7 @@ h1 {
     margin: .25em 0;
     font-size: 2em;
     text-align: center;
-    line-height: 1.05rem;
+    line-height: 1.05;
 }
 h2 {
     margin: .25em 0;
