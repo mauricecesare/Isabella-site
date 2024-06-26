@@ -126,7 +126,7 @@ div.hasImg img {
 }
 
 div.hasImg span {
-    background-color: var(--background);    
+    background-color: hsla(184.66, 16.96%, 17.95%, 1);    
 }
 
 h1 {
