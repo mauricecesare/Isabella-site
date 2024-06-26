@@ -91,7 +91,7 @@ body {
 #app.overlay .content.enlarged, #app.overlay .content.enlarged a {
     opacity: 1;
     color: hsla (179.07 14.61%, 27.92%, 0.95);
-    background-color: (205.18, 39.86% 4.65%, 1);
+    background-color: var(--background);
 }
 
 #app.overlay .enlarged img {
@@ -103,10 +103,13 @@ body {
 p,li {
     margin: 0;
     font-size: 1em;
+    line-height: 1.4;
 }
 
 li {
-    margin-bottom: 0.25em;
+    margin-bottom: 0.5em;
+    line-height: 1.2;
+    margin-left: 1rem;
 }
 
 div.hasImg {
@@ -126,18 +129,19 @@ div.hasImg img {
 }
 
 div.hasImg span {
-    background-color: hsla(184.66, 16.96%, 17.95%, 1);    
+    background-color: var(--background);    
 }
 
 h1 {
     margin: .25em 0;
     font-size: 2em;
     text-align: center;
+    line-height: 1.05rem;
 }
 h2 {
     margin: .25em 0;
     font-size: 1.5em;
-    text-align: center;
+    padding-bottom: 0.2rem;
 }
 h3 {
     margin: .5em 0;
@@ -163,6 +167,7 @@ blockquote {
 p {
     margin: .5em 0 ;
 }
+
 
  /* Specific styles */
 #wrapper {
