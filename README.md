@@ -1,4 +1,4 @@
-# <h1 style="text-align: center;">Rubens und "die Quelle<br /> und Ursprung all der <br />schönen Moden in Italien". <br />Das Porträt von Isabella D'Este.</h1>
+# <h1 style="text-align: center;">Rubens und "die Quelle<br /> und Ursprung all der <br />schönen Moden in Italien". <br />Das Porträt von Isabella d'Este.</h1>
 _<p style="text-align: center;">Ein Text von Sara Van Dijk</p>_
 
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
@@ -20,7 +20,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 **"Ritratti"**: schriftliche **Portraitaufnahme**, wahrscheinlich fiktiv, um auf etwas hinzuweisen. <br />Der Ursprung dieser Herangehensweise findet sich<br /> in der Antike mit einem ähnlichem Modell "Eikones".
 
 
-## <img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg' class='noresize' class='click'>
+## <img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg'>
 
 [Portrait von Gian Giorgio Trissino, Vincenzo di Biagio Catena, 1510, Öl auf Leinwand,
 72,14 × 63,50 cm, Gemäldeabteilung des Louvre, Inv.-Nr: RF_2098](https://de.m.wikipedia.org/wiki/Datei:Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg)
