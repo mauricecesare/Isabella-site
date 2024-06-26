@@ -188,7 +188,7 @@ Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell z
 
 
 ---
-# <p style="text-align: center;">Im Detail: Isabella in Rot</p>
+# Im Detail: Isabella in Rot
 
 <p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
 
