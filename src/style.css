@@ -162,7 +162,8 @@ blockquote {
     font-style: italic;
     margin-inline-start: 1.25em;
     margin-inline-end: 1.25em;
-    padding: 0;
+    padding: 0;+
+    text-align: center;
 }
 p {
     margin: .5em 0 ;
