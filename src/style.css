@@ -132,10 +132,12 @@ div.hasImg span {
 h1 {
     margin: .25em 0;
     font-size: 2em;
+    text-align: center;
 }
 h2 {
     margin: .25em 0;
     font-size: 1.5em;
+    text-align: center;
 }
 h3 {
     margin: .5em 0;
