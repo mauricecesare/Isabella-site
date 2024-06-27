@@ -13,11 +13,11 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 
 ##
-**Gesprächsdialog** zwischen **Pietro Bembo und Macro Vicenzio** über Marcos Sichtung und Bewunderung von Isabella D'Este in Ferrara. Dialog ist festgehalten im **Ritratti**" von Gian Giorgio Trissino, welches um 1524 veröffentlicht wurde.
+**Gesprächsdialog** zwischen dem italienischen Dichter, **Pietro Bembo** und einer fiktiven Person, **Macro Vicenzio** über Marcos Sichtung und Bewunderung von Isabella D'Este in Ferrara. Gian Giorgio Trissino veröffentlichte diesen Dialog um 1524 in seinem Büchlein "**Ritratti del Trissino**". 
 
 
 ##
-**"Ritratti"**: schriftliche **Portraitaufnahme**, wahrscheinlich fiktiv, um auf etwas hinzuweisen. <br />Der Ursprung dieser Herangehensweise findet sich<br /> in der Antike mit einem ähnlichem Modell "Eikones".
+**"Ritratti"**: eine vermutlich fiktive schriftliche **Portraitaufnahme**, um auf etwas hinzuweisen. Der Ursprung dieser literarischen Form findet sich in der Antike. Hier wird die Form der "**Eikones**" aufgegriffen. In "Eikones" geht es darum literarische Kunstwerke zu schaffen, die durch ihre bildhafte Sprache selbst zu einem Erlebnis werden. Diese Werke sind oft reich an mythologischen, historischen und allegorischen Elementen.
 
 
 ## <img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg'>
@@ -30,18 +30,18 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 
 ## 
-Isabella lebte von **1474‒1539** und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als **Verkörperung der Eleganz** und als führende Vorreiterin der **Modewelt** bekannt. <br />
-<br />Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "_studiolo_". Da das **Originalporträt von Tizian leider verloren** gegangen ist, stellt Rubens Kopie eine wichtige visuelle <br />Quelle für Isabellas Kleidung dar.
+Isabella lebte von **1474‒1539** und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als **Verkörperung der Eleganz** und als führende Vorreiterin in der **Modewelt** bekannt. <br />
+<br />Als bedeutende Kunstmäzenin sammelte sie zudem Kunstgegenstände und Antiquitäten in ihrem "_studiolo_", einem Arbeitszimmer in Ferrara. Da das **Originalporträt von Tizian verloren** gegangen ist, stellt die **Kopie von Peter Paul Rubens** eine wichtige visuelle Quelle für die Kleidung von Isabella D'Este dar.
 
 
 ## Peter Paul Rubens
 
-Sein Interesse wurde geweckt und so malte er <br />Isabella D'Este das erste Mal im **Jahr 1600‒01** <br />durch eine verschollene Abbildung von Tizian. <br />Es folgen mehrere Kopien Tizians. Nicht nur weil Rubens beeindruckt von Tizians Technik war,<br /> sondern weil er ein **großes Interesse** für<br /> **historische Kleidungsstile** hatte.
+Das Interesse des flämischen Malers für die Kunstmäzenin aus dem Hause D'Este, wurde geweckt und so malte er Isabella D'Este das erste Mal im **Jahr 1600/1601**. Als Vorlage diente ihm das heute verlorende Gemälde von Tiziano Vecellio (Tizian). Es folgen mehrere Kopien von Tizians Werken. Rubens zeigte sich beeindruckt von Tizians Technik, im Besonderen zeigte er ein **großes Interesse** für den **historische Kleidungsstile** im Jahr 1600/1601.
 
 
 ## Können wir Rubens Kopien trauen? 
 
-Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die Interpretation und Einordnung sprechen können, wie sich Isabella darstellen ließ, **sollte die Frage geklärt werden, ob nicht Rubens Änderungen an Isabellas Äußerem vorgenommen hat**.
+Das Original von Tiziano ist bekanntlich nicht im Original überliefert und bevor wir über die Interpretation und Einordnung sprechen können, wie sich Isabella darstellen ließ, **sollte die Frage geklärt werden, ob nicht Rubens eventuell Änderungen an Isabellas Äußerem vorgenommen hat**.
 
 
 ## <img src='img/1200px-Self-portrait_by_Peter_Paul_Rubens.jpg'>
