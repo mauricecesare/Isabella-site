@@ -1,7 +1,7 @@
 # <h1 style="text-align: center;">Rubens und "die Quelle<br /> und Ursprung all der <br />schönen Moden in Italien". <br />Das Porträt von Isabella D'Este.</h1>
 _<p style="text-align: center;">Ein Text von Sara Van Dijk</p>_
 
-<p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
+<p style="text-align: center;"><img src='img/Isabella.jpg'></p>
 
 <a href="https://www.digitale-sammlungen.de/de/view/bsb11283404?page=5)" target="_blank" style="text-align: center; display:block; line-height:1.3" >Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
 101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534 </a>
@@ -44,7 +44,7 @@ Sein Interesse wurde geweckt und so malte er <br />Isabella D'Este das erste Mal
 Das Original von Tiziano ist bekanntlich verschwunden und bevor wir über die Interpretation und Einordnung sprechen können, wie sich Isabella darstellen ließ, **sollte die Frage geklärt werden, ob nicht Rubens Änderungen an Isabellas Äußerem vorgenommen hat**.
 
 
-## <img src='img/1200px-Self-portrait_by_Peter_Paul_Rubens.jpg' class='noresize'>
+## <img src='img/1200px-Self-portrait_by_Peter_Paul_Rubens.jpg'>
 
 [Selbstportrait, Peter Paul Rubens, 1623, Öl auf Holztafel, 91,3 × 70,8 cm, Royal Collection Großbritanien, Inv.-Nr.: RCIN_400156](https://de.wikipedia.org/wiki/Datei:Rubens_self_portrait.jpg)
 
@@ -60,12 +60,12 @@ Im Jahr 1600 begann **Peter Paul Rubens** seine Karriere als **Hofmaler** von Vi
 <br />Die frühen Werke von Rubens zeichneten sich durch einen **präzisen und glatten Farbauftrag** aus, im Stil <br />der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ **späterer Arbeitsweise**, die durch eine <br />**freie und spontane Pinselführung** geprägt war.
 
 
-## <img src='img/90.jpeg' class='noresize'>
+## <img src='img/90.jpeg'>
 
 [Selbstportrait, Girl with a fan,Tizian, 1555, Öl auf Leinwand, 102 × 86 cm, Staatliche Kunstsammlungen Dresden, Gal.-Nr. 170](https://commons.wikimedia.org/wiki/File:Titian_-_Girl_with_a_Fan_-_WGA22931.jpg)
 
 
-## <img src='img/Girl Fan Circles.jpg' class='noresize'>
+## <img src='img/Girl Fan Circles.jpg'>
 
 [Girl with a fan, Peter Paul Rubens nach Tizian, 1628‒30, Öl auf Leinwand, 96 × 73 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr.: GG_531](https://www.khm.at/en/objectdb/detail/1610/)
 
@@ -90,12 +90,12 @@ Außerdem ist Rubens Kopie von **Tizians "Isabella <br />D'Este in Schwarz" vers
 _<p style="text-align: center;">"However, it should be noted that the panel has never been **technically examined**. We should be wary of accepting the early twentieth-century connoisseurship too readily, and we cannot exclude the possibility that this copy was produced after Rubens rather than directly after Tizian."</p>_
 
 
-## <img src='img/DPI13258655__70037.jpg' class='noresize'>
+## <img src='img/DPI13258655__70037.jpg'>
 
 [Portrait Isabella D'Este in Schwarz, Lucas Vorsterman I nach Peter Paul Rubens, 1620‒30, Kupferstich, 42 × 32,2 cm, The Elisha Whittelsey Collection, Inv.-Nr.: 51.501.7599](https://www.metmuseum.org/art/collection/search/387846)
 
 
-## <img src='img/Tizian_056.jpg' class='noresize'>
+## <img src='img/Tizian_056.jpg'>
 
 [Portrait Isabella D'Este in Schwarz, Tizian, 1534‒36, Öl auf Leinwand, 102,4 × 64,7 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr.: GG_83](https://commons.wikimedia.org/wiki/File:Tizian_056.jpg)
 
@@ -117,7 +117,7 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 <br />Er betont die Bedeutung der richtigen Kleidung zur richtigen Zeit und am richtigen Ort, um persönliche <br />und äußere Stärken zu betonen. Außerdem soll die ideale Hofdame das nötige **Selbstvertrauen** besitzen und durch ihr Wissen um die angemessene Kleidung diese mit **ausgewählten Bewegungen und Worten** ergänzen.
 
 
-## <img src='img/v2_bsb11283404_00005_full_full_0_default.jpg' class='noresize' class='app.overlay'>
+## <img src='img/v2_bsb11283404_00005_full_full_0_default.jpg'>
 
 [Libro del cortegiano, Baldessar Castiglione, 1556, Buchdruck, Augsburg, Staats- und Stadtbibliothek, Inv.-Nr: Stw_9949]([https://commons.wikimedia.org/wiki/File:Baldessare_Castiglione_-_Il_Cortigiano_(1549).tiff](https://www.digitale-sammlungen.de/de/view/bsb11283404?page=5))
 
@@ -151,7 +151,7 @@ Ein **Zitat von Isabellas Ehemann**, Francesco Gonzaga, aus einem Brief, in dem 
 _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had, we do not write anything else <br />other than that they were all bedecked with very precious jewels, because it is beyond our profession."_
 
 
-## <img src='img/Lucrezia_Muenze.png' class='noresize'>
+## <img src='img/Lucrezia_Muenze.png'>
 
 [Vorderseite einer "Schaumünze der Lucrezia Borgia, Filippino Lippi, 1806, Kupferstichabbildung, Berliner Münzkabinett](https://de.wikipedia.org/wiki/Datei:LucBorgia.png)
 
@@ -190,7 +190,7 @@ Im 16. Jahrhundert war es nicht mehr unüblich, <br />für ein Porträt nicht Mo
 ---
 # Im Detail: Isabella in Rot
 
-<p style="text-align: center;"><img src='img/Isabella.jpg' class='noresize'></p>
+<p style="text-align: center;"><img src='img/Isabella.jpg'></p>
 
 <a href="https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg" target="_blank" style="text-align:center; display:block; line-height:1.3" > [Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
 101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534] </a>
