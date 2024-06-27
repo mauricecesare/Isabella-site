@@ -107,7 +107,7 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 
 
 ## 
-**Mode war für Isabella von größter Bedeutung**. <br />Dabei ging es jedoch nicht nur darum, schöne und teure Kleidung zu tragen. Eine wahrhaft mode-<br />bewusste Hofdame musste ebenso verstehen, <br />welcher **gesellschaftlichen Schicht** sie angehörte <br />und zu welchem Anlass sie sich kleidete. Diese beiden <br />Aspekte beeinflussen entscheidend, wie die Kleidung <br />von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. <br />
+**Mode war für Isabella von größter Bedeutung**. <br />Dabei ging es jedoch nicht nur darum, schöne <br />und teure Kleidung zu tragen. Eine wahrhaft <br />modebewusste Hofdame musste ebenso verstehen, <br />welcher **gesellschaftlichen Schicht** sie angehörte <br />und zu welchem Anlass sie sich kleidete. Diese beiden <br />Aspekte beeinflussen entscheidend, wie die Kleidung <br />von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. <br />
 <br />Isabella verstand Mode genau auf diese Weise, und ihr **Einfluss erstreckte sich über die Grenzen Italiens** hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze in der Mode stand sie in regem **Briefkontakt** mit zahlreichen Personen, die sie um **Ratschläge** baten und mit ihr **Tauschgeschäfte** tätigten.
 
 
@@ -137,8 +137,8 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 
 
 ##
-Isabella verfügte über ein **Netzwerk von Agenten**, die im gesamten Land nach den feinsten Stoffen und Materialien suchten, stets bereit, Neuheiten zu erwerben und Isabella zu präsentieren. <br />
-<br />**Kosten spielten dabei keine Rolle**, und obwohl Isabella finanzielle Schwierigkeiten hatte, zeigt der umfangreiche **Briefverkehr** mit den sogenannten "_Zigliolo_" (bevollmächtigte Handelsvertreter), dass sie keinerlei Einsparungen machte, wenn es um die Beschaffung neuer Stoffe und Materialien ging.
+Isabella verfügte über ein **Netzwerk von Agenten**, <br />die im gesamten Land nach den feinsten Stoffen und Materialien suchten, stets bereit, Neuheiten zu erwerben und Isabella zu präsentieren. <br />
+<br />**Kosten spielten dabei keine Rolle**, und obwohl <br />Isabella finanzielle Schwierigkeiten hatte, zeigt der umfangreiche **Briefverkehr** mit den sogenannten "_Zigliolo_" (bevollmächtigte Handelsvertreter), dass <br />sie keinerlei Einsparungen machte, wenn es um die Beschaffung neuer Stoffe und Materialien ging.
 
 
 ## Spionage:
@@ -157,18 +157,18 @@ _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had,
 
 
 ---
-# Abbildung von Schönheit und Kleidung
+# Abbildung von <br />Schönheit und Kleidung
 
 
 ##
-Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen **Konflikt**: dem **Naturalismus und dem Idealismus**. Während es als **Schönheitsideal** galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.
-
-**Isabella** war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer **Körperproportionen unzufrieden**. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen **schriftliche Beschreibungen** ihrer Erscheinung. Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie die entsprechenden Kleidungsstücke gar nicht besaß.
+Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen **Konflikt**: dem **Naturalismus und dem Idealismus**. Während es <br />als **Schönheitsideal** galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.<br />
+<br />**Isabella** war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer **Körper<br />-proportionen unzufrieden**. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen **schriftliche Beschreibungen** ihrer Erscheinung. <br />
+<br />Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. **Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie die entsprechenden Kleidungsstücke gar nicht besaß**.
 
 
 ## War Isabella überhaupt so schön, wie alle behaupten?
 
-Nicht alle Expertinnen sind sich einig, ob es sich bei Isabella D'Este um eine idealisierte Version handele. Pietro Aretino, ein italienischer Schriftsteller aus dem 16. Jahrhundert, beschreibt sie beispielsweise als **monströse Markgräfin**.
+Nicht alle Expertinnen sind sich einig, ob es sich bei Isabella D'Este um eine **idealisierte** Version handele. Pietro Aretino, ein italienischer Schriftsteller aus dem 16. Jahrhundert, beschreibt sie beispielsweise als **monströse Markgräfin**.
 
 
 ## Naturalism
@@ -178,13 +178,13 @@ Nicht alle Expertinnen sind sich einig, ob es sich bei Isabella D'Este um eine i
 
 
 ## Schönheit ≠ Schönheit
-Neben dem visuellen Äußeren, stand Isabella unter dem Druck das Talent zu besitzen, sich ihrem Rang und Vermögen entsprechend zu kleiden. Die soziale Stellung bestimmte dabei der Umgang mit Mode. **Schönheit wurde daran gemessen, wie passend die Kleidung zum jeweiligen Ereignis war**.
+Neben dem visuellen Äußeren, stand Isabella unter dem Druck das Talent zu besitzen, sich ihrem Rang <br />und Vermögen entsprechend zu kleiden. Die soziale Stellung bestimmte dabei der Umgang mit Mode. **Schönheit wurde daran gemessen, wie passend <br />die Kleidung zum jeweiligen Ereignis war**.
 
 _"Beauty was not intrinsic to a garment but depended on the **social status** of the wearer (...) otherwise **inappropiate to her rank**."_
 
 
 ## 
-Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell zu sitzen. Stattdessen wurden immer häufiger **schriftliche Beschreibungen des Äußeren** oder ältere Porträts an die Künstler:innen geschickt.
+Im 16. Jahrhundert war es nicht mehr unüblich, <br />für ein Porträt nicht Modell zu sitzen. <br />Stattdessen wurden immer häufiger **schriftliche Beschreibungen des Äußeren** oder ältere Porträts an die Künstler:innen geschickt.
 
 
 ---
@@ -200,24 +200,24 @@ Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell z
 **1. Kleid:**
 * dunkelrotes **Kleid** "_camora_"
 * **Korsett** mit tiefen Ausschnitt
-* weißes **Hemd** "_camica_" mit goldenen Streifen und Perlen
+* weißes **Hemd** "_camica_" mit goldenen <br />Streifen und Perlen
 * gebauschte **Ärmel** am Oberarm
 * enger Ärmel am Unterarm mit goldenen Streifen
 
 
 ## 
 **2. Accessoires:**
-* Marderpelz "_Zibellino_": Isabella als Vorreiterin. Auch genannt "Flohpelz" mit ausgearbeitetem Kopf, Schwanz und Pfoten
+* Marderpelz "_Zibellino_": <br />Isabella als Vorreiterin. Auch genannt "Flohpelz" mit ausgearbeitetem Kopf, Schwanz und Pfoten
 * goldener **Ring** am Zeigefinger
-* gedrehter **Hüftgürtel mit Rosenkranz** aus schwarzem Bernstein und Gold
+* gedrehter **Hüftgürtel mit Rosenkranz** <br />aus schwarzem Bernstein und Gold
 * **Perlenkette**
 
 
 ##
 **3. Kopfschmuck:**
-* Kopfschmuck (eigene Erfindung): voluminöses **Haarnetz** mit falschem Haar und Seide "_capigliara or zazara_"
+* Kopfschmuck (eigene Erfindung): voluminöses **Haarnetz** mit falschem Haar und Seide <br />"_capigliara or zazara_"
 *  Goldfäden/ -draht
-*  **Brosche** in der Mitte: vier dunkle Edelsteine, vier perlen und Rubin in der Mitte
+*  **Brosche** in der Mitte: vier dunkle Edelsteine, <br />vier Perlen und Rubin in der Mitte
 *  hängende, birnenförmige Perle 
 
 
@@ -226,13 +226,14 @@ Im 16. Jahrhundert war es nicht mehr unüblich, für ein Porträt nicht Modell z
 
 
 ##
-Trissinos **"Ritratti"** basiert auf dem antiken Modell des griechisch-römischen Schriftstellers und Rhetorikers Lucian von Samosta. Der sogenannte **"Eikones"** beschreibt auf ähnliche Weise die äußeren Attribute, doch es gibt wesentliche Unterschiede zwischen den Werken von Trissino und Lucian. Diese Unterschiede verdeutlichen einen gravierenden **Wandel in der Auffassung von weiblicher Schönheit**. Während Trissino materielle Aspekte in großer Ausführlichkeit beschreibt, legt Lucian vor allem Wert auf die Tugenden, die Schönheit ausmachen. Nach Lucians Verständnis gehören **Selbstbeherrschung, Güte und Freundlichkeit** zur Definition von Schönheit.
+Trissinos **"Ritratti"** basiert auf dem antiken Modell des griechisch-römischen Schriftstellers und Rhetorikers Lucian von Samosta. Der sogenannte **"Eikones"** beschreibt auf ähnliche Weise die äußeren Attribute, doch es gibt wesentliche Unterschiede zwischen den Werken von Trissino und Lucian. Diese Unterschiede verdeutlichen einen gravierenden **Wandel in der Auffassung von weiblicher Schönheit**. <br />
+<br />Während Trissino materielle Aspekte in großer Ausführlichkeit beschreibt, legt Lucian vor allem Wert auf die Tugenden, die Schönheit ausmachen. Nach Lucians Verständnis gehören **Selbstbeherrschung, Güte und Freundlichkeit** zur Definition von Schönheit.
 
 Trissinos Perspektive hingegen konzentriert sich stärker auf **Kleidung und Accessoires**, die im 16. Jahrhundert von großer Bedeutung waren. In seiner Sichtweise repräsentieren diese eher **materialistischen Attribute** die inneren Werte, die Lucian in seinem Modell an erster Stelle nennt.
 
 
 ##
-_<p style="text-align: center;">"In the sixteenth century, the ancient Roman concept of female beauty had utterly changed and Trissino understood this perfectly well. Like no other, he knew how to juxtapose Isabella's virtue, dress and beauty. With Trissino as the inspiration for the Portrait of Isabella in Red at hand, it becomes possible to go deeper into the meaning of Isabella's dress in her portrait. **Extolling her virtues in the Ritratti, Trissino stated that no one knew how to spend her money on 'praiseworthy' matters better than Isabella, resulting in the virtue of liberalitá, or generosity.** (...)"</p>_
+_<p style="text-align: center;">"In the sixteenth century, the ancient Roman concept <br />of female beauty had utterly changed and Trissino understood this perfectly well. Like no other, he knew how to juxtapose Isabella's virtue, dress and beauty. With Trissino as the inspiration for the Portrait of Isabella in Red at hand, it becomes possible to go deeper into the meaning of Isabella's dress in her portrait. **Extolling her virtues in the Ritratti, Trissino stated that no one knew how to spend her money on 'praiseworthy' matters better than Isabella, resulting in the virtue of liberalitá, or generosity.** (...)"</p>_
 
 
 ---
