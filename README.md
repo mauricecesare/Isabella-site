@@ -31,7 +31,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 ## 
 Isabella lebte von **1474‒1539** und war Markgräfin von Mantua, einer Stadt in Italien. Zu ihren Lebzeiten war sie weithin als **Verkörperung der Eleganz** und als führende Vorreiterin der **Modewelt** bekannt. <br />
-<br />Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "_studiolo_". Da das **Originalporträt von Tizian leider verloren** gegangen ist, stellt Rubens Kopie eine wichtige visuelle Quelle für Isabellas Kleidung dar.
+<br />Zudem galt sie als Kunstmäzenin und sammelte allerlei Kunstgegenstände und Antiquitäten in ihrem "_studiolo_". Da das **Originalporträt von Tizian leider verloren** gegangen ist, stellt Rubens Kopie eine wichtige visuelle <br />Quelle für Isabellas Kleidung dar.
 
 
 ## Peter Paul Rubens
@@ -148,7 +148,7 @@ Um stets auf dem neuesten Stand zu bleiben, ließ Isabella auch andere Frauen, w
 ## 
 Ein **Zitat von Isabellas Ehemann**, Francesco Gonzaga, aus einem Brief, in dem er klarstellt, dass er über die Begierde Isabellas Bescheid weiß, er jedoch kein geeigneter Botschafter sei:
 
-_"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had, we do not write anything else other than that they were all bedecked with very precious jewels, because it is beyond our profession."_
+_"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had, we do not write anything else <br />other than that they were all bedecked with very precious jewels, because it is beyond our profession."_
 
 
 ## <img src='img/Lucrezia_Muenze.png' class='noresize'>
@@ -162,8 +162,8 @@ _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had,
 
 ##
 Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen **Konflikt**: dem **Naturalismus und dem Idealismus**. Während es <br />als **Schönheitsideal** galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.<br />
-<br />**Isabella** war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer **Körper<br />-proportionen unzufrieden**. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen **schriftliche Beschreibungen** ihrer Erscheinung. <br />
-<br />Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. **Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie die entsprechenden Kleidungsstücke gar nicht besaß**.
+<br />**Isabella** war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer **Körper- <br />proportionen unzufrieden**. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen **schriftliche Beschreibungen** ihrer Erscheinung. <br />
+<br />Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. **Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie <br />die entsprechenden Kleidungsstücke gar nicht besaß**.
 
 
 ## War Isabella überhaupt so schön, wie alle behaupten?
@@ -180,11 +180,11 @@ Nicht alle Expertinnen sind sich einig, ob es sich bei Isabella D'Este um eine *
 ## Schönheit ≠ Schönheit
 Neben dem visuellen Äußeren, stand Isabella unter dem Druck das Talent zu besitzen, sich ihrem Rang <br />und Vermögen entsprechend zu kleiden. Die soziale Stellung bestimmte dabei der Umgang mit Mode. **Schönheit wurde daran gemessen, wie passend <br />die Kleidung zum jeweiligen Ereignis war**.
 
-_"Beauty was not intrinsic to a garment but depended on the **social status** of the wearer (...) otherwise **inappropiate to her rank**."_
+_"Beauty was not intrinsic to a garment but depended on <br />the **social status** of the wearer (...) otherwise **inappropiate to her rank**."_
 
 
 ## 
-Im 16. Jahrhundert war es nicht mehr unüblich, <br />für ein Porträt nicht Modell zu sitzen. <br />Stattdessen wurden immer häufiger **schriftliche Beschreibungen des Äußeren** oder ältere Porträts an die Künstler:innen geschickt.
+Im 16. Jahrhundert war es nicht mehr unüblich, <br />für ein Porträt nicht Modell zu sitzen. Stattdessen wurden immer häufiger **schriftliche Beschreibungen des Äußeren** oder ältere Porträts <br />an die Künstler:innen geschickt.
 
 
 ---
@@ -215,9 +215,9 @@ Im 16. Jahrhundert war es nicht mehr unüblich, <br />für ein Porträt nicht Mo
 
 ##
 **3. Kopfschmuck:**
-* Kopfschmuck (eigene Erfindung): voluminöses **Haarnetz** mit falschem Haar und Seide <br />"_capigliara or zazara_"
+* Kopfschmuck (eigene Erfindung): <br />voluminöses **Haarnetz** mit falschem Haar und Seide <br />"_capigliara or zazara_"
 *  Goldfäden/ -draht
-*  **Brosche** in der Mitte: vier dunkle Edelsteine, <br />vier Perlen und Rubin in der Mitte
+*  **Brosche** in der Mitte: vier dunkle Edelsteine, <br />vier Perlen und ein Rubin in der Mitte
 *  hängende, birnenförmige Perle 
 
 
