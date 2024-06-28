@@ -17,8 +17,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 
 ##
-**"Ritratti"**: eine vermutlich fiktive schriftliche **Porträt- <br />aufnahme**, um auf etwas hinzuweisen. Der Ursprung dieser literarischen Form findet sich in der Antike. Hier wird die Form der "**Eikones**" aufgegriffen. Im "**Eikones**" geht es darum literarische Kunstwerke zu schaffen, die durch ihre bildhafte Sprache selbst zu einem Erlebnis werden. <br />
-<br />Diese Werke sind oft reich an mythologischen, historischen und allegorischen Elementen.
+**"Ritratti"**: eine vermutlich fiktive schriftliche **Porträt- <br />aufnahme**, um auf etwas hinzuweisen. Der Ursprung dieser literarischen Form findet sich in der Antike. <br />Hier wird die Form der "**Eikones**" aufgegriffen. Im "**Eikones**" geht es darum literarische Kunstwerke zu schaffen, die durch ihre bildhafte Sprache selbst zu einem Erlebnis werden. Diese Werke sind oft reich an mythologischen, historischen und allegorischen Elementen.
 
 
 ## <img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg'>
