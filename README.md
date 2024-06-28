@@ -17,7 +17,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 
 ##
-**"Ritratti"**: eine vermutlich fiktive schriftliche **Portraitaufnahme**, um auf etwas hinzuweisen. Der Ursprung dieser literarischen Form findet sich in der Antike. Hier wird die Form der "**Eikones**" aufgegriffen. Im "**Eikones**" geht es darum literarische Kunstwerke zu schaffen, die durch ihre bildhafte Sprache selbst zu einem Erlebnis werden. <br />
+**"Ritratti"**: eine vermutlich fiktive schriftliche **Porträt- <br />aufnahme**, um auf etwas hinzuweisen. Der Ursprung dieser literarischen Form findet sich in der Antike. Hier wird die Form der "**Eikones**" aufgegriffen. Im "**Eikones**" geht es darum literarische Kunstwerke zu schaffen, die durch ihre bildhafte Sprache selbst zu einem Erlebnis werden. <br />
 <br />Diese Werke sind oft reich an mythologischen, historischen und allegorischen Elementen.
 
 
@@ -37,12 +37,12 @@ Isabella lebte von **1474‒1539** und war Markgräfin von Mantua, einer Stadt i
 
 ## Peter Paul Rubens
 
-Das Interesse des flämischen Malers für die Kunstmäzenin aus dem Hause D'Este, wurde geweckt und so malte er Isabella D'Este das erste Mal im <br />**Jahr 1600/1601**. Als Vorlage diente ihm das heute verlorende Gemälde von Tiziano Vecellio (Tizian). Es folgen mehrere Kopien von Tizians Werken. Rubens zeigte sich beeindruckt von Tizians Technik, im Besonderen zeigte er ein **großes Interesse** für den **historische Kleidungsstile** im Jahr 1600/1601.
+Das Interesse des flämischen Malers für die Kunst- <br />mäzenin aus dem Hause D'Este, wurde geweckt und so malte er Isabella D'Este das erste Mal im <br />**Jahr 1600/1601**. Als Vorlage diente ihm das heute verlorende Gemälde von Tiziano Vecellio (Tizian). Es folgen mehrere Kopien von Tizians Werken. Rubens zeigte sich beeindruckt von Tizians Technik, im Besonderen zeigte er ein **großes Interesse** für den **historische Kleidungsstile** im Jahr 1600/1601.
 
 
 ## Können wir Rubens' Kopien trauen? 
 
-Das Original von Tizian ist bekanntlich nicht im <br />Original überliefert und bevor wir über die Interpretation und Einordnung sprechen können, wie sich Isabella darstellen ließ, **sollte die Frage geklärt werden, ob nicht Rubens eventuell Änderungen an Isabellas Äußerem vorgenommen hat**.
+Das Original von Tizian ist bekanntlich nicht im Ori- <br />ginal überliefert und bevor wir über die Interpretation und Einordnung sprechen können, wie sich Isabella darstellen ließ, **sollte die Frage geklärt werden, ob nicht Rubens eventuell Änderungen an Isabellas Äußerem vorgenommen hat**.
 
 
 ## <img src='img/1200px-Self-portrait_by_Peter_Paul_Rubens.jpg'>
@@ -57,8 +57,8 @@ Das Original von Tizian ist bekanntlich nicht im <br />Original überliefert und
 
 
 ## 
-Im Jahr 1600 begann **Peter Paul Rubens** seine Karriere als **Hofmaler** von Vincenzo Gonzaga (1562–1612), dem Urenkel Isabellas, in Mantua. Während dieser Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den venezianischen Meister entfachte. <br />
-<br />Die frühen Werke von Rubens zeichneten sich durch einen **präzisen und glatten Farbauftrag** aus, er malte <br />im Stil der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ **späterer Arbeitsweise**, die durch eine **freie und spontane Pinselführung** geprägt war.
+Im Jahr 1600 begann **Peter Paul Rubens** seine Karriere als **Hofmaler** von Vincenzo Gonzaga (1562–1612), dem Urenkel Isabellas, in Mantua. Während dieser Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den vene- <br />zianischen Meister entfachte. <br />
+<br />Die frühen Werke von Rubens zeichneten sich durch einen **präzisen und glatten Farbauftrag** aus, er malte <br />im Stil der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die An- <br />fertigung von Kopien und unterscheidet sich deutlich von Rubens’ **späterer Arbeitsweise**, die durch eine **freie und spontane Pinselführung** geprägt war.
 
 
 ## <img src='img/90.jpeg'>
@@ -109,7 +109,7 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 
 ## 
 **Mode war für Isabella von größter Bedeutung**. <br />Dabei ging es jedoch nicht nur darum, schöne <br />und teure Kleidung zu tragen. Eine wahrhaft <br />modebewusste Hofdame musste ebenso verstehen, <br />welcher **gesellschaftlichen Schicht** sie angehörte und <br />in welcher Art sie sich zu unterschiedlichen Anlässen kleidete. <br />
-<br />Diese beiden Aspekte beeinflussen entscheidend, wie die Kleidung <br />von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame <br />die Sprache der Mode versteht und umsetzen kann. <br />
+<br />Diese beiden Aspekte beeinflussen entscheidend, <br />wie die Kleidung von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame <br />die Sprache der Mode versteht und umsetzen kann. <br />
 <br />Isabella verstand Mode genau auf diese Weise, und ihr **Einfluss erstreckte sich über die Grenzen Italiens** hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze in der Mode stand sie in regem **Briefkontakt** mit zahlreichen Personen, die sie um **Ratschläge** baten und mit ihr **Tauschgeschäfte** tätigten.
 
 
