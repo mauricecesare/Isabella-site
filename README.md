@@ -110,7 +110,7 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 
 ## 
 **Mode war für Isabella von größter Bedeutung**. <br />Dabei ging es jedoch nicht nur darum, schöne <br />und teure Kleidung zu tragen. Eine wahrhaft <br />modebewusste Hofdame musste ebenso verstehen, <br />welcher **gesellschaftlichen Schicht** sie angehörte und <br />in welcher Art sie sich zu unterschiedlichen Anlässen kleidete. <br />
-<br />Diese beiden Aspekte beeinflussen entscheidend, <br />wie die Kleidung von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame <br />die Sprache der Mode versteht und umsetzen kann. <br />
+<br />Diese beiden Aspekte beeinflussen entscheidend, <br />wie die Kleidung von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame die Sprache der Mode versteht und umsetzen kann. <br />
 <br />Isabella verstand Mode genau auf diese Weise, und ihr **Einfluss erstreckte sich über die Grenzen Italiens** hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze in der Mode stand sie in regem **Briefkontakt** mit zahlreichen Personen, die sie um **Ratschläge** baten und mit ihr **Tauschgeschäfte** tätigten.
 
 
