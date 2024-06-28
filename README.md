@@ -127,7 +127,7 @@ Das literarische Werk von **Baldassarre Castiglione**, <br />das sogenannte "Buc
 
 ## Frankreich
 
-**Frz. König, Francis I** erkundigt sich bei Isabella nach Modepuppen, die die gleiche Kleidung wie sie tragen. Sein Anliegen war diese Puppen, deren Funktion es war, ein Erscheinungsbild der Moden an anderen Höfen zu vermitteln, den Frauen in Frankreich zu zeigen, um sie zu inspirieren ähnliche Kleidung zu tragen.
+**Frz. König, Francis I** erkundigt sich bei Isabella nach Modepuppen, die die gleiche Kleidung wie sie tragen. Sein Anliegen war diese Puppen, deren Funktion es war, ein Erscheinungsbild der Moden an anderen Höfen zu vermitteln, den Frauen in Frankreich zu zeigen, <br />um sie zu inspirieren ähnliche Kleidung zu tragen.
 
 
 ## Polen
