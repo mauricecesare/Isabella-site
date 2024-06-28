@@ -38,7 +38,7 @@ Isabella lebte von **1474‒1539** und war Markgräfin von Mantua, einer Stadt i
 ## Peter Paul Rubens
 
 Das Interesse des flämischen Malers für die Kunst- <br />mäzenin aus dem Hause D'Este, wurde geweckt <br />und so malte er Isabella D'Este das erste Mal im <br />**Jahr 1600/1601**. Als Vorlage diente ihm das heute verlorende Gemälde von Tiziano Vecellio (Tizian). <br />
-<br />Es folgen mehrere Kopien von Tizians Werken. Rubens zeigte sich beeindruckt von Tizians Technik, im Besonderen zeigte er ein **großes Interesse** für den **historische Kleidungsstile** im Jahr 1600/1601.
+<br />Es folgen mehrere Kopien von Tizians Werken. <br />Rubens zeigte sich beeindruckt von Tizians Technik, <br />im Besonderen zeigte er ein **großes Interesse** für den **historische Kleidungsstile** im Jahr 1600/1601.
 
 
 ## Können wir Rubens' Kopien trauen? 
