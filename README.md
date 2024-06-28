@@ -3,7 +3,7 @@ _<p style="text-align: center;">Ein Text von Sara Van Dijk</p>_
 
 <p style="text-align: center;"><img src='img/Isabella.jpg'></p>
 
-<a href="https://www.digitale-sammlungen.de/de/view/bsb11283404?page=5)" target="_blank" style="text-align: center; display:block; line-height:1.3" >Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
+<a href="https://www.digitale-sammlungen.de/de/view/bsb11283404?page=5)" target="_blank" style="text-align: center; display:block; line-height:1.3" >Porträt von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
 101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534 </a>
 
 
@@ -22,7 +22,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 ## <img src='img/Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg'>
 
-[Portrait von Gian Giorgio Trissino, Vincenzo di Biagio Catena, 1510, Öl auf Leinwand,
+[Porträt von Gian Giorgio Trissino, Vincenzo di Biagio Catena, 1510, Öl auf Leinwand,
 72,14 × 63,50 cm, Gemäldeabteilung des Louvre, Inv.-Nr: RF_2098](https://de.m.wikipedia.org/wiki/Datei:Vincenzo_Catena_Portrait_of_Gian_Giorgio_Trissino.jpg)
 
 ---
@@ -39,14 +39,14 @@ Isabella lebte von **1474‒1539** und war Markgräfin von Mantua, einer Stadt i
 Das Interesse des flämischen Malers für die Kunstmäzenin aus dem Hause D'Este, wurde geweckt und so malte er Isabella D'Este das erste Mal im **Jahr 1600/1601**. Als Vorlage diente ihm das heute verlorende Gemälde von Tiziano Vecellio (Tizian). Es folgen mehrere Kopien von Tizians Werken. Rubens zeigte sich beeindruckt von Tizians Technik, im Besonderen zeigte er ein **großes Interesse** für den **historische Kleidungsstile** im Jahr 1600/1601.
 
 
-## Können wir Rubens Kopien trauen? 
+## Können wir Rubens' Kopien trauen? 
 
-Das Original von Tiziano ist bekanntlich nicht im Original überliefert und bevor wir über die Interpretation und Einordnung sprechen können, wie sich Isabella darstellen ließ, **sollte die Frage geklärt werden, ob nicht Rubens eventuell Änderungen an Isabellas Äußerem vorgenommen hat**.
+Das Original von Tizian ist bekanntlich nicht im Original überliefert und bevor wir über die Interpretation und Einordnung sprechen können, wie sich Isabella darstellen ließ, **sollte die Frage geklärt werden, ob nicht Rubens eventuell Änderungen an Isabellas Äußerem vorgenommen hat**.
 
 
 ## <img src='img/1200px-Self-portrait_by_Peter_Paul_Rubens.jpg'>
 
-[Selbstportrait, Peter Paul Rubens, 1623, Öl auf Holztafel, 91,3 × 70,8 cm, Royal Collection Großbritanien, Inv.-Nr.: RCIN_400156](https://de.wikipedia.org/wiki/Datei:Rubens_self_portrait.jpg)
+[Selbstporträt, Peter Paul Rubens, 1623, Öl auf Holztafel, 91,3 × 70,8 cm, Royal Collection Großbritanien, Inv.-Nr.: RCIN_400156](https://de.wikipedia.org/wiki/Datei:Rubens_self_portrait.jpg)
 
 
 ---
@@ -56,13 +56,13 @@ Das Original von Tiziano ist bekanntlich nicht im Original überliefert und bevo
 
 
 ## 
-Im Jahr 1600 begann **Peter Paul Rubens** seine Karriere als **Hofmaler** von Vincenzo Gonzaga (1562–1612), <br />dem Urenkel Isabellas, in Mantua. Während dieser <br />Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den venezianischen Meister entfachte. <br />
-<br />Die frühen Werke von Rubens zeichneten sich durch einen **präzisen und glatten Farbauftrag** aus, im Stil <br />der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ **späterer Arbeitsweise**, die durch eine <br />**freie und spontane Pinselführung** geprägt war.
+Im Jahr 1600 begann **Peter Paul Rubens** seine Karriere als **Hofmaler** von Vincenzo Gonzaga (1562–1612), dem Urenkel Isabellas, in Mantua. Während dieser Zeit hatte Rubens reichlich Gelegenheit, die Werke Tizians zu studieren, was seine Faszination für den venezianischen Meister entfachte. <br />
+<br />Die frühen Werke von Rubens zeichneten sich durch einen **präzisen und glatten Farbauftrag** aus, er malte im Stil der Antwerpener Maler des 16. Jahrhunderts. Diese Technik war besonders vorteilhaft für die Anfertigung von Kopien und unterscheidet sich deutlich von Rubens’ **späterer Arbeitsweise**, die durch eine **freie und spontane Pinselführung** geprägt war.
 
 
 ## <img src='img/90.jpeg'>
 
-[Selbstportrait, Girl with a fan,Tizian, 1555, Öl auf Leinwand, 102 × 86 cm, Staatliche Kunstsammlungen Dresden, Gal.-Nr. 170](https://commons.wikimedia.org/wiki/File:Titian_-_Girl_with_a_Fan_-_WGA22931.jpg)
+[Girl with a fan,Tizian, 1555, Öl auf Leinwand, 102 × 86 cm, Staatliche Kunstsammlungen Dresden, Gal.-Nr. 170](https://commons.wikimedia.org/wiki/File:Titian_-_Girl_with_a_Fan_-_WGA22931.jpg)
 
 
 ## <img src='img/Girl Fan Circles.jpg'>
@@ -72,18 +72,18 @@ Im Jahr 1600 begann **Peter Paul Rubens** seine Karriere als **Hofmaler** von Vi
 
 ## ...doch alles fake?!
 
-es gibt eine **zweite, sehr ähnliche Version** von Tizians "Girl with a fan", mit den gleichen Attributen, weißes Satin Kleid, goldene Verzierungen und ein grünes Blatt im Ausschnitt. Diese stellt das **wahre Abbild für Rubens Kopie** dar und unterstreicht erneut, die Präzision Rubens, für den die Genauigkeit der Kopie <br />besonders bei Tizian's Vorbild wichtig war.
+Es existiert eine **zweite, sehr ähnliche Version** von Tizians "Girl with a fan", mit den gleichen Attributen, einem weißen Satinkleid, goldenen Verzierungen und einem grünen Blatt im Dekolletee. Diese stellt die **wahre Vorlage für Rubens' Kopie** dar und unterstreicht erneut, die Präzision Rubens, für den die Genauigkeit der Kopie besonders im Hinblick auf die von Tizian geschaffenen Vorbilder wichtig war.
 
 
 ---
 
 
-# Rubens Abbildungen approved!
+# Rubens Abbildungen _approved_!
 
 
 ## 
-Außerdem ist Rubens Kopie von **Tizians "Isabella <br />D'Este in Schwarz" verschollen**, jedoch existiert ein Kupferstich von **Lucas Vorstermann**, der wiederum <br />eine Kopie anhand Rubens Version anfertigte. <br />
-<br />Der **Kupferstich** ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens Kopie an Tizian und bestätigt die **Glaubwürdigkeit** in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.
+Zwar ist Rubens' Kopie von **Tizians "Isabella <br />D'Este in Schwarz" verschollen**, jedoch existiert ein Kupferstich von **Lucas Vorstermann**, der wiederum <br />eine Kopie anhand Rubens' Version angefertigt hatte. <br />
+<br />Der **Kupferstich** ist ein Beweis für die Genauigkeit der Einzelheiten von Rubens' Kopie nach Tizian und bestätigt die **Glaubwürdigkeit** in der Übersetzung von Kleidung und Accessoires der jeweiligen Träger:in. Jedoch ist die Betrachtung, laut **Sara Van Dijk**, mit Vorsicht zu genießen, da es sich hier ausschließlich um Interpretationen aus der eigenen Recherche handelt.
 
 
 ## 
@@ -92,12 +92,12 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 
 ## <img src='img/DPI13258655__70037.jpg'>
 
-[Portrait Isabella D'Este in Schwarz, Lucas Vorsterman I nach Peter Paul Rubens, 1620‒30, Kupferstich, 42 × 32,2 cm, The Elisha Whittelsey Collection, Inv.-Nr.: 51.501.7599](https://www.metmuseum.org/art/collection/search/387846)
+[Porträt Isabella D'Este in Schwarz, Lucas Vorsterman I nach Peter Paul Rubens, 1620‒30, Kupferstich, 42 × 32,2 cm, The Elisha Whittelsey Collection, Inv.-Nr.: 51.501.7599](https://www.metmuseum.org/art/collection/search/387846)
 
 
 ## <img src='img/Tizian_056.jpg'>
 
-[Portrait Isabella D'Este in Schwarz, Tizian, 1534‒36, Öl auf Leinwand, 102,4 × 64,7 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr.: GG_83](https://commons.wikimedia.org/wiki/File:Tizian_056.jpg)
+[Porträt Isabella D'Este in Schwarz, Tizian, 1534‒36, Öl auf Leinwand, 102,4 × 64,7 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr.: GG_83](https://commons.wikimedia.org/wiki/File:Tizian_056.jpg)
 
 
 ---
@@ -107,13 +107,13 @@ _<p style="text-align: center;">"However, it should be noted that the panel has 
 
 
 ## 
-**Mode war für Isabella von größter Bedeutung**. <br />Dabei ging es jedoch nicht nur darum, schöne <br />und teure Kleidung zu tragen. Eine wahrhaft <br />modebewusste Hofdame musste ebenso verstehen, <br />welcher **gesellschaftlichen Schicht** sie angehörte <br />und zu welchem Anlass sie sich kleidete. Diese beiden <br />Aspekte beeinflussen entscheidend, wie die Kleidung <br />von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame Mode versteht. <br />
+**Mode war für Isabella von größter Bedeutung**. <br />Dabei ging es jedoch nicht nur darum, schöne <br />und teure Kleidung zu tragen. Eine wahrhaft <br />modebewusste Hofdame musste ebenso verstehen, <br />welcher **gesellschaftlichen Schicht** sie angehörte und in welcher Art sie sich zu unterschiedlichen Anlässen kleidete. Diese beiden Aspekte beeinflussen entscheidend, wie die Kleidung <br />von anderen wahrgenommen wird, und sind ein wesentlicher Indikator dafür, wie gut die Hofdame die Sprache der Mode versteht und umsetzen kann. <br />
 <br />Isabella verstand Mode genau auf diese Weise, und ihr **Einfluss erstreckte sich über die Grenzen Italiens** hinaus und wurde in ganz Europa diskutiert. Aufgrund ihrer innovativen Ansätze in der Mode stand sie in regem **Briefkontakt** mit zahlreichen Personen, die sie um **Ratschläge** baten und mit ihr **Tauschgeschäfte** tätigten.
 
 
 ## "Libro del cortegiano":
 
-Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508 und 1516 und etwa zehn Jahre später gedruckt. In diesem Buch beschreibt Castiglione das "_Ideal der "Court Lady_" und stellt <br />eine Art **Benimmregeln für die Bekleidung** auf, die <br />als Verhaltenskodex verstanden werden können. <br />
+Das literarische Werk von **Baldassarre Castiglione**, das sogenannte "Buch des Höflings" entstand zwischen 1508 und 1516 und wurde etwa zehn Jahre später gedruckt. In diesem Buch beschreibt Castiglione das "_Ideal der "Court Lady_" und stellt eine Art **Benimmregeln** auf, die sich auch auf die angemessene Kleidung erstrecken und die als Verhaltenskodex zu verstehen waren. <br />
 <br />Er betont die Bedeutung der richtigen Kleidung zur richtigen Zeit und am richtigen Ort, um persönliche <br />und äußere Stärken zu betonen. Außerdem soll die ideale Hofdame das nötige **Selbstvertrauen** besitzen und durch ihr Wissen um die angemessene Kleidung diese mit **ausgewählten Bewegungen und Worten** ergänzen.
 
 
@@ -124,12 +124,12 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 
 ## Frankreich
 
-**Frz. König, Francis I** fragt Isabella nach Modepuppen, die die gleiche Kleidung wie sie tragen. Diese Puppen möchte er den Frauen in Frankreich zeigen, um sie damit zu inspirieren ähnliche Kleidung zu tragen.
+**Frz. König, Francis I** erkundigt sich bei Isabella nach Modepuppen, die die gleiche Kleidung wie sie tragen. Sein Anliegen war diese Puppen, deren Funktion es war, ein Erscheinungsbild der Moden an anderen Höfen zu vermitteln, den Frauen in Frankreich zu zeigen, um sie zu inspirieren ähnliche Kleidung zu tragen.
 
 
 ## Polen
 
-**Pln. Königin, Bona Sforza** führt Tauschgeschäfte mit Isabella durch. Sie tauscht Tierfelle gegen Isabellas neuste Innovation: gold/silberne Haarnetze
+**Pln. Königin, Bona Sforza** führt Tauschgeschäfte mit Isabella durch. Sie tauscht Tierfelle gegen Isabellas neuste Innovation: gold- und silberne Haarnetze
 
 
 ---
@@ -138,7 +138,7 @@ Ein literarisches Werk von **Baldassarre Castiglione**, entstanden zwischen 1508
 
 ##
 Isabella verfügte über ein **Netzwerk von Agenten**, <br />die im gesamten Land nach den feinsten Stoffen und Materialien suchten, stets bereit, Neuheiten zu erwerben und Isabella zu präsentieren. <br />
-<br />**Kosten spielten dabei keine Rolle**, und obwohl <br />Isabella finanzielle Schwierigkeiten hatte, zeigt der umfangreiche **Briefverkehr** mit den sogenannten "_Zigliolo_" (bevollmächtigte Handelsvertreter), dass <br />sie keinerlei Einsparungen machte, wenn es um die Beschaffung neuer Stoffe und Materialien ging.
+<br />**Kosten spielten dabei keine Rolle**, und obwohl <br />Isabella finanzielle Schwierigkeiten hatte, zeigt der umfangreiche **Briefverkehr** mit den sogenannten "_Zigliolo_" (den bevollmächtigten Handelsvertretern), dass <br />sie keinerlei Einsparungen machte, wenn es um die Beschaffung neuer Stoffe und Materialien ging.
 
 
 ## Spionage:
@@ -146,7 +146,7 @@ Um stets auf dem neuesten Stand zu bleiben, ließ Isabella auch andere Frauen, w
 
 
 ## 
-Ein **Zitat von Isabellas Ehemann**, Francesco Gonzaga, aus einem Brief, in dem er klarstellt, dass er über die Begierde Isabellas Bescheid weiß, er jedoch kein geeigneter Botschafter sei:
+Ein **Zitat von Isabellas Ehemann**, Francesco Gonzaga, aus einem Brief, in dem er klarstellt, dass er über die Begierde Isabellas informiert sei, er jedoch kein geeigneter Botschafter sei:
 
 _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had, we do not write anything else <br />other than that they were all bedecked with very precious jewels, because it is beyond our profession."_
 
@@ -161,24 +161,24 @@ _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had,
 
 
 ##
-Die Abbildung in Portraits war besonders durch zwei Extreme geprägt und standen im ständigen **Konflikt**: dem **Naturalismus und dem Idealismus**. Während es <br />als **Schönheitsideal** galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Stellen anzupassen und zu verändern.<br />
+Die Abbildung in Porträts war besonders durch zwei Extreme geprägt. Diese standen in ständigem **Konflikt**: der **Naturalismus und der Idealismus**. Während es <br />als **Schönheitsideal** galt, ein natürliches Porträt von sich anfertigen zu lassen, mussten die Maler:innen trotzdem die Kund:innen zufrieden stellen, was bedeutete, bestimmte Bereiche anzupassen und zu verändern.<br />
 <br />**Isabella** war selbst nicht von ihrem Abbild überzeugt und insbesondere mit der Darstellung ihrer **Körper- <br />proportionen unzufrieden**. Dies führte dazu, dass sie sich im späteren Verlauf nicht mehr direkt portraitieren ließ. Stattdessen erhielten die Maler:innen **schriftliche Beschreibungen** ihrer Erscheinung. <br />
 <br />Das Einzige, was die Künstler:innen tatsächlich zu Gesicht bekamen, waren die Kleidungsstücke, in denen Isabella dargestellt werden wollte. **Oftmals wurden jedoch auch diese nur schriftlich beschrieben, da sie <br />die entsprechenden Kleidungsstücke gar nicht besaß**.
 
 
-## War Isabella überhaupt so schön, wie alle behaupten?
+## War Isabella überhaupt so schön, wie alle behaupteten?
 
-Nicht alle Expertinnen sind sich einig, ob es sich bei Isabella D'Este um eine **idealisierte** Version handele. Pietro Aretino, ein italienischer Schriftsteller aus dem 16. Jahrhundert, beschreibt sie beispielsweise als **monströse Markgräfin**.
-
-
-## Naturalism
+Nicht alle Expertinnen sind sich einig, ob es sich bei Isabella D'Este um eine **idealisierte** Darstellung handele. Pietro Aretino, ein italienischer Schriftsteller aus dem 16. Jahrhundert, beschreibt sie beispielsweise als **monströse Markgräfin**.
 
 
-## Idealism
+## Naturalismus
+
+
+## Idealismus
 
 
 ## Schönheit ≠ Schönheit
-Neben dem visuellen Äußeren, stand Isabella unter dem Druck das Talent zu besitzen, sich ihrem Rang <br />und Vermögen entsprechend zu kleiden. Die soziale Stellung bestimmte dabei der Umgang mit Mode. **Schönheit wurde daran gemessen, wie passend <br />die Kleidung zum jeweiligen Ereignis war**.
+Neben dem visuellen Äußeren, stand Isabella unter dem Druck das Talent zu besitzen, sich ihrem Rang <br />und Vermögen entsprechend zu kleiden. Die soziale Stellung bestimmte dabei der Umgang mit Mode. **Schönheit wurde daran gemessen, wie angemessen <br />die Kleidung zum jeweiligen Ereignis war**.
 
 _"Beauty was not intrinsic to a garment but depended on <br />the **social status** of the wearer (...) otherwise **inappropiate to her rank**."_
 
@@ -192,7 +192,7 @@ Im 16. Jahrhundert war es nicht mehr unüblich, <br />für ein Porträt nicht Mo
 
 <p style="text-align: center;"><img src='img/Isabella.jpg'></p>
 
-<a href="https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg" target="_blank" style="text-align:center; display:block; line-height:1.3" > [Portrait von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
+<a href="https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg" target="_blank" style="text-align:center; display:block; line-height:1.3" > [Porträt von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
 101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534] </a>
 
 
