@@ -155,7 +155,7 @@ Um stets auf dem neuesten Stand zu bleiben, ließ Isabella auch andere Frauen, w
 ## 
 Ein **Zitat von Isabellas Ehemann**, Francesco Gonzaga, aus einem Brief, in dem er klarstellt, dass er über die Begierde Isabellas informiert sei, er jedoch kein geeigneter Botschafter sei:
 
-_<p style="margin-top: 0.75em">"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had, we do not write anything else <br />other than that they were all bedecked with very precious jewels, because it is beyond our profession."</p>_
+_"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had, we do not write anything else <br />other than that they were all bedecked with very precious jewels, because it is beyond our profession."_
 
 <p style="text-align: left; font-size: 1rem; line-height: 1.1">Van Dijk, S. (2019). Rubens and “The source and origin of all the pretty fashions in Italy“. The portrait of Isabella D’Este in Red. In A. D. Newman & L. Nijkamp (Hrsg.), Undressing Rubens: Fashion and Painting in Seventeenth-Century Antwerp (S. 130). London: Harvey Miller Publishers</p>
 
