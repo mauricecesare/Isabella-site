@@ -27,8 +27,7 @@
 
 @font-face {
     font-family: hkgrotesk;
-    src: url("./fonts/hkgrotesk-light.woff") format("woff");
-    font-style: normal;          
+    src: url("./fonts/hkgrotesk-light.woff") format("woff");         
     font-weight: light;
 }
 
