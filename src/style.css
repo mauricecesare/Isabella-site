@@ -29,7 +29,6 @@
     font-family: hkgrotesk;
     src: url("./fonts/hkgrotesk-light.woff") format("woff");         
     font-weight: 100;
-    letter-spacing: 0.01rem;
 }
 
 
@@ -112,6 +111,7 @@ p,li {
     font-size: 1em;
     line-height: 1.4;
     font-weight: 100;
+    letter-spacing: 0.01rem;
 }
 
 li {
