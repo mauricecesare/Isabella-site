@@ -120,6 +120,10 @@ li {
     margin-left: 1rem;
 }
 
+em {
+    line-height: 1.2;
+}
+
 div.hasImg {
     background: none;
     max-width: 25em;
@@ -169,7 +173,7 @@ blockquote {
     font-style: italic;
     margin-inline-start: 1.25em;
     margin-inline-end: 1.25em;
-    padding: 0;+
+    padding: 0;
     text-align: center;
 }
 p {
