@@ -15,7 +15,7 @@ _<p style="text-align: center;">„She, Macro said, had her hair spread over her
 
 
 ##
-**Gesprächsdialog** zwischen dem italienischen Dichter, **Pietro Bembo** und einer fiktiven Person, **Macro Vicenzio** über Marcos Sichtung und Bewunderung von Isabella D'Este in Ferrara. Gian Giorgio Trissino veröffentlichte diesen Dialog um 1524 in seinem Büchlein <br />"**Ritratti del Trissino**". 
+**Gesprächsdialog** zwischen dem italienischen Dichter, **Pietro Bembo** und einer fiktiven Person, **Macro Vicenzio** über Macros Sichtung und Bewunderung von Isabella D'Este in Ferrara. Gian Giorgio Trissino veröffentlichte diesen Dialog um 1524 in seinem Büchlein <br />"**Ritratti del Trissino**". 
 
 
 ##
