@@ -93,6 +93,8 @@ Zwar ist Rubens' Kopie von **Tizians "Isabella <br />D'Este in Schwarz" verschol
 ## 
 _<p style="text-align: center;">"However, it should be noted that the panel has never been **technically examined**. We should be wary of accepting the early twentieth-century connoisseurship too readily, and we cannot exclude the possibility that this copy was produced after Rubens rather than directly after Tizian."</p>_
 
+<p style="text-align: center;">Van Dijk, S. (2019). Rubens and “The source and origin of all the pretty fashions in Italy“. The portrait of Isabella D’Este in Red. In A. D. Newman & L. Nijkamp (Hrsg.), Undressing Rubens: Fashion and Painting in Seventeenth-Century Antwerp (S. 128). London: Harvey Miller Publishers</p>
+
 
 ## <img src='img/DPI13258655__70037.jpg'>
 
@@ -155,6 +157,8 @@ Ein **Zitat von Isabellas Ehemann**, Francesco Gonzaga, aus einem Brief, in dem 
 
 _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had, we do not write anything else <br />other than that they were all bedecked with very precious jewels, because it is beyond our profession."_
 
+<p style="text-align: center;">Van Dijk, S. (2019). Rubens and “The source and origin of all the pretty fashions in Italy“. The portrait of Isabella D’Este in Red. In A. D. Newman & L. Nijkamp (Hrsg.), Undressing Rubens: Fashion and Painting in Seventeenth-Century Antwerp (S. 130). London: Harvey Miller Publishers</p>
+
 
 ## <img src='img/Lucrezia_Muenze.png'>
 
@@ -184,8 +188,6 @@ Nicht alle Expertinnen sind sich einig, ob es sich <br />bei Isabella D'Este um 
 
 ## Schönheit ≠ Schönheit
 Neben dem visuellen Äußeren, stand Isabella unter dem Druck das Talent zu besitzen, sich ihrem Rang <br />und Vermögen entsprechend zu kleiden. Die soziale Stellung bestimmte dabei der Umgang mit Mode. **Schönheit wurde daran gemessen, wie angemessen <br />die Kleidung zum jeweiligen Ereignis war**.
-
-_"Beauty was not intrinsic to a garment but depended on <br />the **social status** of the wearer (...) otherwise **inappropiate to her rank**."_
 
 
 ## 
@@ -239,6 +241,8 @@ Trissinos Perspektive hingegen konzentriert sich stärker auf **Kleidung und Acc
 
 ##
 _<p style="text-align: center;">"In the sixteenth century, the ancient Roman concept <br />of female beauty had utterly changed and Trissino understood this perfectly well. Like no other, he knew how to juxtapose Isabella's virtue, dress and beauty. With Trissino as the inspiration for the Portrait of Isabella in Red at hand, it becomes possible to go deeper into the meaning of Isabella's dress in her portrait. **Extolling her virtues in the Ritratti, Trissino stated that no one knew how to spend her money on 'praiseworthy' matters better than Isabella, resulting <br />in the virtue of liberalitá, or generosity.** (...)"</p>_
+
+<p style="text-align: center;">Van Dijk, S. (2019). Rubens and “The source and origin of all the pretty fashions in Italy“. The portrait of Isabella D’Este in Red. In A. D. Newman & L. Nijkamp (Hrsg.), Undressing Rubens: Fashion and Painting in Seventeenth-Century Antwerp (S. 135). London: Harvey Miller Publishers</p>
 
 
 ---
