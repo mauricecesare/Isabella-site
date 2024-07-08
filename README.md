@@ -11,7 +11,7 @@ _<p style="text-align: center;">Ein Text von Sara Van Dijk</p>_
 #
 _<p style="text-align: center;">„She, Macro said, had her hair spread over her head in such <br />a way that it ran off her lovely and **delicate shoulders**; and it was gathered in a **hairnet of auburn silk**, which had been worked with such skillful craftsmanship that to me the knots seemed to be of the **finest gold**, and through the mesh of this hairnet, which was rather large, you could see her locks of **hair shining almost like sunbeams** that sparkled everywhere. In the middle of her forehead, where the hair is parted, she had a very beautiful and **glowing ruby**, from which a shiny and **large pearl** was dangling; and around her neck she had a string of very large and splendid pearls, which hung down from one side and the other of her chest almost to her belt; she wore a **beautiful and rich dress** of black velvet, loaded with very well-placed gold buckles, and everything she had on her was so **admirably decorated** that it seemed as if the artisans had **wanted to compete with nature itself**.“</p>_
 
-<p style="text-align: center; font-size: 1rem; line-height: 1.1">Van Dijk, S. (2019). Rubens and “The source and origin of all the pretty fashions in Italy“. The portrait of Isabella D’Este in Red. In A. D. Newman & L. Nijkamp (Hrsg.), Undressing Rubens: Fashion and Painting in Seventeenth-Century Antwerp (S. 123). London: Harvey Miller Publishers</p>
+<p style="text-align: center; font-size: 1rem; line-height: 1.1">Van Dijk, S. (2019). Rubens and “The source and origin of all the pretty fashions in Italy“. The portrait of Isabella D’Este in Red. In A. D. Newman & L. Nijkamp (Hrsg.), Undressing Rubens: Fashion and Painting in Seventeenth-Century Antwerp. London: Harvey Miller Publishers, (S. 123)</p>
 
 
 ##
@@ -93,7 +93,7 @@ Zwar ist Rubens' Kopie von **Tizians "Isabella <br />D'Este in Schwarz" verschol
 ## 
 _<p style="text-align: center;">"However, it should be noted that the panel has never been **technically examined**. We should be wary of accepting the early twentieth-century connoisseurship too readily, and we cannot exclude the possibility that this copy was produced after Rubens rather than directly after Tizian."</p>_
 
-<p style="text-align: center; font-size: 1rem; line-height: 1.1">Van Dijk, S. (2019). Rubens and “The source and origin of all the pretty fashions in Italy“. The portrait of Isabella D’Este in Red. In A. D. Newman & L. Nijkamp (Hrsg.), Undressing Rubens: Fashion and Painting in Seventeenth-Century Antwerp (S. 128). London: Harvey Miller Publishers</p>
+<p style="text-align: center; font-size: 1rem; line-height: 1.1">Ebd., S. 128. </p>
 
 
 ## <img src='img/DPI13258655__70037.jpg'>
@@ -157,7 +157,7 @@ Ein **Zitat von Isabellas Ehemann**, Francesco Gonzaga, aus einem Brief, in dem 
 
 _"Of the ornaments the Ill. Lady Duchess, the Duchess of Bari and Lady Anna had, we do not write anything else other than that they were all bedecked with very precious jewels, because it is beyond our profession."_
 
-<p style="text-align: left; font-size: 1rem; line-height: 1.1">Van Dijk, S. (2019). Rubens and “The source and origin of all the pretty fashions in Italy“. The portrait of Isabella D’Este in Red. In A. D. Newman & L. Nijkamp (Hrsg.), Undressing Rubens: Fashion and Painting in Seventeenth-Century Antwerp (S. 130). London: Harvey Miller Publishers</p>
+<p style="text-align: left; font-size: 1rem; line-height: 1.1">Ebd., S. 130.</p>
 
 
 ## <img src='img/Lucrezia_Muenze.png'>
@@ -242,7 +242,7 @@ Trissinos Perspektive hingegen konzentriert sich stärker auf **Kleidung und Acc
 ##
 _<p style="text-align: center;">"In the sixteenth century, the ancient Roman concept <br />of female beauty had utterly changed and Trissino understood this perfectly well. Like no other, he knew how to juxtapose Isabella's virtue, dress and beauty. With Trissino as the inspiration for the Portrait of Isabella in Red at hand, it becomes possible to go deeper into the meaning of Isabella's dress in her portrait. **Extolling her virtues in the Ritratti, Trissino stated that no one knew how to spend her money on 'praiseworthy' matters better than Isabella, resulting <br />in the virtue of liberalitá, or generosity.** (...)"</p>_
 
-<p style="text-align: center; font-size: 1rem; line-height: 1.1">Van Dijk, S. (2019). Rubens and “The source and origin of all the pretty fashions in Italy“. The portrait of Isabella D’Este in Red. In A. D. Newman & L. Nijkamp (Hrsg.), Undressing Rubens: Fashion and Painting in Seventeenth-Century Antwerp (S. 135). London: Harvey Miller Publishers</p>
+<p style="text-align: center; font-size: 1rem; line-height: 1.1">Ebd., S. 135.</p>
 
 
 ---
