@@ -1,5 +1,5 @@
 # Rubens und "die Quelle<br /> und Ursprung all der <br />schönen Moden in Italien". <br />Das Porträt von Isabella D'Este.
-_<p style="text-align: center;">Ein Text von [Sara Van Dijk](mailto:S.van.Dijk@rijksmuseum.nl)</p>_
+_<p style="text-align: center;">Ein Text von Dr. Sara Van Dijk</p>_
 
 <p style="text-align: center;"><img src='img/Isabella.jpg'></p>
 
@@ -267,6 +267,11 @@ _<p style="text-align: center;">"In the sixteenth century, the ancient Roman con
 ## <img src='img/Bilder.jpg'>
 
 [Dr. Sabine de Günther](mailto:sabine.de.guenther@fh-potsdam.de)
+
+
+## <img src='img/Sara.jpg'>
+
+[Dr. Sara Van Dijk](mailto:S.van.Dijk@rijksmuseum.nl)
 
 ---
 
