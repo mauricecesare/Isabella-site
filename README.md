@@ -37,6 +37,16 @@ Isabella lebte von **1474‒1539** und war Markgräfin von Mantua, einer Stadt i
 <br />Als bedeutende Kunstmäzenin sammelte sie zudem Kunstgegenstände und Antiquitäten in ihrem "_studiolo_", einem Arbeitszimmer in Ferrara. Da das **Originalporträt von Tizian verloren** gegangen ist, stellt die **Kopie von Peter Paul Rubens** eine wichtige visuelle Quelle für die Kleidung von Isabella D'Este dar.
 
 
+## <img src='img/1200px-Self-portrait_by_Peter_Paul_Rubens.jpg'>
+
+[Selbstporträt, Peter Paul Rubens, 1623, Öl auf Holztafel, 91,3 × 70,8 cm, Royal Collection Großbritanien, <br />Inv.-Nr.: RCIN_400156](https://de.wikipedia.org/wiki/Datei:Rubens_self_portrait.jpg)
+
+
+## <img src='img/Self-portrait_of_Titian.jpg'>
+
+[Selbstbildnis, Tizian, ca. zwischen 1550‒1555, <br />Öl auf Leinwand, 100,1 × 77 cm, <br />Gemäldegalerie Berlin, Inv. Nr.: 163](https://recherche.smb.museum/detail/872023/selbstbildnis?language=de&question=tizian&limit=15&sort=relevance&controls=none&objIdx=3)
+
+
 ## Peter Paul Rubens
 
 Das Interesse des flämischen Malers für die Kunst- <br />mäzenin aus dem Hause D'Este, wurde geweckt <br />und so malte er Isabella D'Este das erste Mal im <br />**Jahr 1600/1601**. Als Vorlage diente ihm das heute verlorende Gemälde von Tiziano Vecellio (Tizian). <br />
@@ -46,16 +56,6 @@ Das Interesse des flämischen Malers für die Kunst- <br />mäzenin aus dem Haus
 ## Können wir Rubens' Kopien trauen? 
 
 Das Original von Tizian ist bekanntlich nicht im Ori- <br />ginal überliefert und bevor wir über die Interpretation und Einordnung sprechen können, wie sich Isabella darstellen ließ, **sollte die Frage geklärt werden, ob nicht Rubens eventuell Änderungen an Isabellas Äußerem vorgenommen hat**.
-
-
-## <img src='img/1200px-Self-portrait_by_Peter_Paul_Rubens.jpg'>
-
-[Selbstporträt, Peter Paul Rubens, 1623, Öl auf Holztafel, 91,3 × 70,8 cm, Royal Collection Großbritanien, <br />Inv.-Nr.: RCIN_400156](https://de.wikipedia.org/wiki/Datei:Rubens_self_portrait.jpg)
-
-
-## <img src='img/Self-portrait_of_Titian.jpg'>
-
-[Selbstbildnis, Tizian, ca. zwischen 1550‒1555, <br />Öl auf Leinwand, 100,1 × 77 cm, <br />Gemäldegalerie Berlin, Inv. Nr.: 163](https://recherche.smb.museum/detail/872023/selbstbildnis?language=de&question=tizian&limit=15&sort=relevance&controls=none&objIdx=3)
 
 
 ---
