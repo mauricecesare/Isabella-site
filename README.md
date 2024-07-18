@@ -255,7 +255,7 @@ _<p style="text-align: center;">"In the sixteenth century, the ancient Roman con
 
 ##
 
-[Ich will noch mehr Datenvisualisierungen sehen alias hier geht's zurück zur Übersicht](https://uclab.fh-potsdam.de/bildargument/)
+[Hier geht's zurück zur Übersicht](https://uclab.fh-potsdam.de/bildargument/)
 
 
 ## <img src='img/Bilder2.jpg'>
