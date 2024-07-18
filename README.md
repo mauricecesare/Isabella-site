@@ -250,7 +250,8 @@ _<p style="text-align: center;">"In the sixteenth century, the ancient Roman con
 
 
 ##
-<p style="text-align: center;">Eine Visualisierung im Rahmen der Lehrveranstaltung „Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte" visualisiert von Maurice-Cesaré Braatz unter der Betreuung von Dr. Sabine de Günther an der Fachhochschule Potsdam, 2024.</p> 
+<p style="text-align: center;">Eine Visualisierung im Rahmen der Lehrveranstaltung „Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte" visualisiert von 
+  <br />Maurice-Cesaré Braatz unter der Betreuung von <br />Dr. Sabine de Günther an der Fachhochschule Potsdam, 2024.</p> 
 
 
 ##
