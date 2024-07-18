@@ -251,6 +251,7 @@ _<p style="text-align: center;">"In the sixteenth century, the ancient Roman con
 <br />
 <br />[Zurück zur Übersicht](https://uclab.fh-potsdam.de/bildargument/)
 
+
 ## <img src='img/Maurice.png'>
 [Maurice-Cesaré Braatz](mailto:maurice-braatz@web.de)
 
