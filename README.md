@@ -1,5 +1,5 @@
 # Rubens und "die Quelle<br /> und Ursprung all der <br />schönen Moden in Italien". <br />Das Porträt von Isabella D'Este.
-_<p style="text-align: center;">Ein Text von Sara Van Dijk</p>_
+_<p style="text-align: center;">Ein Text von [Sara Van Dijk](mailto:S.van.Dijk@rijksmuseum.nl)</p>_
 
 <p style="text-align: center;"><img src='img/Isabella.jpg'></p>
 
@@ -243,6 +243,12 @@ Trissinos Perspektive hingegen konzentriert sich stärker auf **Kleidung und Acc
 _<p style="text-align: center;">"In the sixteenth century, the ancient Roman concept <br />of female beauty had utterly changed and Trissino understood this perfectly well. Like no other, he knew how to juxtapose Isabella's virtue, dress and beauty. With Trissino as the inspiration for the Portrait of Isabella in Red at hand, it becomes possible to go deeper into the meaning of Isabella's dress in her portrait. **Extolling her virtues in the Ritratti, Trissino stated that no one knew how to spend her money on 'praiseworthy' matters better than Isabella, resulting <br />in the virtue of liberalitá, or generosity.** (...)"</p>_
 
 <p style="text-align: center; font-size: 1rem; line-height: 1.1">Ebd., S. 135.</p>
+
+
+---
+#
+Eine Visualisierung im Rahmen der Lehrveranstaltung „Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte" visualisiert von [Maurice-Cesaré Braatz](mailto:maurice-braatz@web.de) unter der Betreuung von [Dr. Sabine de Günther](mailto:sabine.de.guenther@fh-potsdam.de) an der Fachhochschule Potsdam, 2024.<br />
+[Zurück zur Übersicht](https://uclab.fh-potsdam.de/bildargument/)
 
 
 ---
