@@ -252,11 +252,13 @@ _<p style="text-align: center;">"In the sixteenth century, the ancient Roman con
 <br />[Zurück zur Übersicht](https://uclab.fh-potsdam.de/bildargument/)
 
 
-## <img src='img/Maurice.png'>
+## <img src='img/Bilder2.jpg'>
+
 [Maurice-Cesaré Braatz](mailto:maurice-braatz@web.de)
 
 
-## <img src='img/Sabine.png'>
+## <img src='img/Bilder.jpg'>
+
 [Dr. Sabine de Günther](mailto:sabine.de.guenther@fh-potsdam.de)
 
 ---
