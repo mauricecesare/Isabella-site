@@ -4,7 +4,7 @@ _<p style="text-align: center;">Ein Text von Dr. Sara Van Dijk</p>_
 <p style="text-align: center;"><img src='img/Isabella.jpg'></p>
 
 <a href="https://www.digitale-sammlungen.de/de/view/bsb11283404?page=5)" target="_blank" style="text-align: center; display:block; line-height:1.3" >Porträt von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
-101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534 </a>
+101,8 × 81 cm, Kunsthistorisches Museum Wien, Inv.-Nr: GG_1534 </a>
 
 
 ---
@@ -205,7 +205,7 @@ Im 16. Jahrhundert war es nicht mehr unüblich, <br />für ein Porträt nicht Mo
 <p style="text-align: center;"><img src='img/Isabella.jpg'></p>
 
 <a href="https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_,_Kunsthistorisches_Museum_Wien,_Gemäldegalerie_-_Isabella_d%27Este_-_GG_1534_-_Kunsthistorisches_Museum.jpg" target="_blank" style="text-align:center; display:block; line-height:1.3" > [Porträt von Isabella D'Este in Rot, Peter Paul Rubens nach Tizian, ca. 1605 , Öl auf Leinwand,
-101,8 × 81 cm, Kunsthistorisches Museum Wien, Gemäldegalerie, Inv.-Nr: GG_1534] </a>
+101,8 × 81 cm, Kunsthistorisches Museum Wien, Inv.-Nr: GG_1534] </a>
 
 
 ## 
