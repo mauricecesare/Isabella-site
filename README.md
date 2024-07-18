@@ -255,7 +255,7 @@ _<p style="text-align: center;">"In the sixteenth century, the ancient Roman con
 [Maurice-Cesaré Braatz](mailto:maurice-braatz@web.de)
 
 
-## <img/Sabine.png>
+## <img src='img/Sabine.png'>
 [Dr. Sabine de Günther](mailto:sabine.de.guenther@fh-potsdam.de)
 
 ---
