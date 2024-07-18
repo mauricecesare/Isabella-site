@@ -55,7 +55,7 @@ Das Original von Tizian ist bekanntlich nicht im Ori- <br />ginal überliefert u
 
 ## <img src='img/Self-portrait_of_Titian.jpg'>
 
-[Selbstbildnis, Tizian, ca. zwischen 1550‒1555, Öl auf Leinwand, 100,1 × 77 cm, <br />Gemäldegalerie Berlin, Inv. Nr.: 163](https://recherche.smb.museum/detail/872023/selbstbildnis?language=de&question=tizian&limit=15&sort=relevance&controls=none&objIdx=3)
+[Selbstbildnis, Tizian, ca. zwischen 1550‒1555, <br />Öl auf Leinwand, 100,1 × 77 cm, <br />Gemäldegalerie Berlin, Inv. Nr.: 163](https://recherche.smb.museum/detail/872023/selbstbildnis?language=de&question=tizian&limit=15&sort=relevance&controls=none&objIdx=3)
 
 
 ---
