@@ -119,7 +119,7 @@ function updateItem(item, session) {
 window.onload = init;
 // LINK HTML 
 function setHTML(session, anchors, cursors) {
-	let title = "Ein Text von Sara Van Dijk";
+	let title = "Quelle und Ursprung aller schönen Moden";
 	let parser = new DOMParser();
 	if (session.index > 0) {
 		let parsed = parser.parseFromString(marked.parse(session.text), 'text/html')
